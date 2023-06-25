@@ -1,0 +1,15 @@
+<TEI>
+<div type="episode" ref="#ep12" />
+<div type="episode" ref="#ep16" />
+<div type="episode" ref="#ep17" />
+<div type="prologue" ref="#prol2" />
+<teimed_note xml:id="ind1">
+Nota 1
+</teimed_note><teimed_note xml:id="ind2">
+Nota 2.
+</teimed_note><teimed_note xml:id="ind3">
+Nota 3.
+</teimed_note><teimed_note xml:id="ind4">
+Nota 4.
+</teimed_note>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI>
+<div type="prologue" ref="#prol1" />
+<div type="episode" ref="#ep1" />
+<div type="episode" ref="#ep2" />
+<teimed_note xml:id="in1">
+
+</teimed_note><teimed_note xml:id="ind1">
+J'ignore un tilde d'abréviation audessus de "Aimes".
+</teimed_note><teimed_note xml:id="ind2">
+On peut imaginer que le scribe, au début, se soit confondu avec le nom "aimes".
+</teimed_note><teimed_note xml:id="ind3">
+"per": le scribe conserve le tilde d'abbréviation audessus de "p".
+</teimed_note><teimed_note xml:id="ind4">
+"en": le scribe conserve le tilde d'abbréviation audessus de "e".
+</teimed_note><teimed_note xml:id="ind5">
+"gent": le scribe conserve le tilde d'abbréviation audessus de "e".
+</teimed_note><teimed_note xml:id="ind6">
+"molt": le scribe conserve le signe d'abbréviation sur "l".
+</teimed_note><teimed_note xml:id="ind7">
+"experdus": le scribe conserve le tilde d'abbréviation audessus de "p".
+</teimed_note>
+</TEI>

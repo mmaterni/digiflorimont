@@ -1,0 +1,4742 @@
+<div type="episode" ref="#ep23">
+    <pb xml:id="Gpb74b" n="66r"/><cb xml:id="Gcb138b" n="b"/><lg xml:id="Glg328">
+      <l n="6158" xml:id="Gl6158">
+        <persName ref="#CAN">
+          <forename>
+            <w xml:id="Gl6158w1"><hi rend="init-flour">C</hi>Andiobras</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6158w2" ana="#aggl-c">de</w>
+        <w xml:id="Gl6158w3" ana="#aggl">la</w>
+        <w xml:id="Gl6158w4">prison</w>
+      </l>
+      <l n="6159" xml:id="Gl6159">
+        <w xml:id="Gl6159w1">Ot</w>
+        <w xml:id="Gl6159w2">tramis</w>
+        <w xml:id="Gl6159w3" ana="#aggl-s">au</w>
+        <w xml:id="Gl6159w4">roi</w>
+        <w xml:id="Gl6159w5">un</w>
+        <w xml:id="Gl6159w6">baron</w>
+        <pc xml:id="Gl6159pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6160" xml:id="Gl6160">
+        <w xml:id="Gl6160w1" ana="#aggl-s">Li</w>
+        <persName ref="#DAN">
+          <roleName>
+            <w xml:id="Gl6160w2">duc</w>
+          </roleName>
+          <w xml:id="Gl6160w3" ana="#elis">d</w>
+          <placeName type="city" ref="#AND">
+            <name>
+              <w xml:id="Gl6160w4">andrenople</w>
+            </name>
+          </placeName>
+        </persName>
+        <w xml:id="Gl6160w5" ana="#aggl-s">i</w>
+        <w xml:id="Gl6160w6">tramist</w>
+      </l>
+      <l n="6161" xml:id="Gl6161">
+        <w xml:id="Gl6161w1" ana="#aggl-s">Au</w>
+        <persName ref="#FLO">
+          <roleName>
+            <w xml:id="Gl6161w2">roi</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6161w3">floriemont</w>
+          </forename>
+        </persName>
+        <pc xml:id="Gl6161pc1" resp="#ed">,</pc>
+        <pc xml:id="Gl6161pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6161w4">se</w>
+        <w xml:id="Gl6161w5">li</w>
+        <w xml:id="Gl6161w6">promist</w>
+      </l>
+      <l n="6162" xml:id="Gl6162">
+        <w xml:id="Gl6162w1">Que</w>
+        <w xml:id="Gl6162w2">por</w>
+        <w xml:id="Gl6162w3">soi</w>
+        <w xml:id="Gl6162w4" ana="#aggl-c-uncert">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6162w5" ana="#aggl-uncert">por</w>
+        <w xml:id="Gl6162w6" ana="#aggl-uncert">li</w>
+        <w xml:id="Gl6162w7">autres</w>
+        <w xml:id="Gl6162w8">rois</w>
+      </l>
+      <l n="6163" xml:id="Gl6163">
+        <w xml:id="Gl6163w1">Donra</w>
+        <w xml:id="Gl6163w2" ana="#elis">d</w>
+        <w xml:id="Gl6163w3">or</w>
+        <w xml:id="Gl6163w4" type="number-letter">quatre</w>
+        <w xml:id="Gl6163w5">foiz</w>
+        <w xml:id="Gl6163w6" ana="#aggl-s-uncert">son</w>
+        <w xml:id="Gl6163w7">pois</w>
+        <pc xml:id="Gl6163pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6164" xml:id="Gl6164">
+        <w xml:id="Gl6164w1">Chascun</w>
+        <w xml:id="Gl6164w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6164w3">fera</w>
+        <w xml:id="Gl6164w4">homaige</w>
+      </l>
+      <l n="6165" xml:id="Gl6165">
+        <w xml:id="Gl6165w1" ana="#aggl-s-uncert">En</w>
+        <w xml:id="Gl6165w2">sa</w>
+        <w xml:id="Gl6165w3">cort</w>
+        <w xml:id="Gl6165w4">de<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6165w5">le</w>
+        <w xml:id="Gl6165w6">bernaige</w>
+        <pc xml:id="Gl6165pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6166" xml:id="Gl6166">
+        <w xml:id="Gl6166w1" ana="#aggl-s-uncert">Se</w>
+        <w xml:id="Gl6166w2">hom</w>
+        <w xml:id="Gl6166w3">estrange</w>
+        <w xml:id="Gl6166w4" ana="#aggl-s">i</w>
+        <w xml:id="Gl6166w5">fera</w>
+        <w xml:id="Gl6166w6">gue<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+        <pc xml:id="Gl6166pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6167" xml:id="Gl6167">
+        <w xml:id="Gl6167w1">El</w>
+        <w xml:id="Gl6167w2">mont</w>
+        <w xml:id="Gl6167w3">nen</w>
+        <w xml:id="Gl6167w4">a</w>
+        <w xml:id="Gl6167w5" ana="#aggl-s">si</w>
+        <w xml:id="Gl6167w6">fiere</w>
+        <w xml:id="Gl6167w7">te<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+      </l>
+      <l n="6168" xml:id="Gl6168">
+        <w xml:id="Gl6168w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6168w2" ana="#aggl-s-uncert">il</w>
+        <w xml:id="Gl6168w3" ana="#elis">n</w>
+        <w xml:id="Gl6168w4">i</w>
+        <w xml:id="Gl6168w5" ana="#aggl-s-uncert">puisse</w>
+        <w xml:id="Gl6168w6">bien</w>
+        <w xml:id="Gl6168w7">aller</w>
+      </l>
+      <l n="6169" xml:id="Gl6169">
+        <w xml:id="Gl6169w1" ana="#elis">S</w>
+        <w xml:id="Gl6169w2">il</w>
+        <w xml:id="Gl6169w3" ana="#aggl-s">se</w>
+        <w xml:id="Gl6169w4"><c ana="#lram-c">u</c>ealt</w>
+        <w xml:id="Gl6169w5" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6169w6">lui</w>
+        <w xml:id="Gl6169w7">acorder</w>
+        <pc xml:id="Gl6169pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg329">
+      <l n="6170" xml:id="Gl6170">
+        <w xml:id="Gl6170w1" ana="#aggl-s">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6170w2">dux</w>
+        <w xml:id="Gl6170w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6170w4"><c ana="#lram-c">u</c>ait</w>
+        <w xml:id="Gl6170w5">isnellement</w>
+      </l>
+      <l n="6171" xml:id="Gl6171">
+        <w xml:id="Gl6171w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6171w2">roi</w>
+        <w xml:id="Gl6171w3" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6171w4">conter</w>
+        <w xml:id="Gl6171w5" ana="#aggl-s">li</w>
+        <w xml:id="Gl6171w6">present</w>
+        <pc xml:id="Gl6171pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6172" xml:id="Gl6172">
+        <w xml:id="Gl6172w1">Les</w>
+        <w xml:id="Gl6172w2">homaiges</w>
+        <w xml:id="Gl6172w3">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6172w4">les</w>
+        <w xml:id="Gl6172w5">a<c ana="#lram-c">u</c>oir</w>
+      </l>
+      <l n="6173" xml:id="Gl6173">
+        <w xml:id="Gl6173w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6173w2">il</w>
+        <w xml:id="Gl6173w3">puet</w>
+        <w xml:id="Gl6173w4">des</w>
+        <w xml:id="Gl6173w5">quatre</w>
+        <w xml:id="Gl6173w6">rois</w>
+        <w xml:id="Gl6173w7">a<c ana="#lram-c">u</c>oir</w>
+        <pc xml:id="Gl6173pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6174" xml:id="Gl6174">
+        <w xml:id="Gl6174w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6174w2">dist</w>
+        <w xml:id="Gl6174w3" ana="#elis">qu</w>
+        <w xml:id="Gl6174w4">il</w>
+        <w xml:id="Gl6174w5" ana="#elis">s</w>
+        <w xml:id="Gl6174w6">en</w>
+        <w xml:id="Gl6174w7">co<expan corresp="#ab-tild-nas"><ex>n</ex></expan>silleroit</w>
+      </l>
+      <l n="6175" xml:id="Gl6175">
+        <w xml:id="Gl6175w1">Et</w>
+        <w xml:id="Gl6175w2" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6175w3">son</w>
+        <w xml:id="Gl6175w4">pere</w>
+        <w xml:id="Gl6175w5" ana="#aggl-s">en</w>
+        <w xml:id="Gl6175w6">parleroit</w>
+      </l>
+      <l n="6176" xml:id="Gl6176">
+        <w xml:id="Gl6176w1">Et</w>
+        <w xml:id="Gl6176w2" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6176w3">toz</w>
+        <w xml:id="Gl6176w4">ses</w>
+        <w xml:id="Gl6176w5">autres</w>
+        <w xml:id="Gl6176w6">barons</w>
+        <pc xml:id="Gl6176pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6177" xml:id="Gl6177">
+        <w xml:id="Gl6177w1">Puis</w>
+        <w xml:id="Gl6177w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6177w3">manderoit</w>
+        <w xml:id="Gl6177w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6177w5">respons</w>
+        <pc xml:id="Gl6177pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6178" xml:id="Gl6178">
+        <w xml:id="Gl6178w1">Bien</w>
+        <w xml:id="Gl6178w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6178w3">sa<c ana="#lram-c">u</c>ra</w>
+        <w xml:id="Gl6178w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6178w5"><c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6178w6">mander</w>
+      </l>
+      <l n="6179" xml:id="Gl6179">
+        <w xml:id="Gl6179w1">Del</w>
+        <w xml:id="Gl6179w2">tenir</w>
+        <w xml:id="Gl6179w3" ana="#aggl-s">ou</w>
+        <w xml:id="Gl6179w4">del</w>
+        <w xml:id="Gl6179w5">deli<c ana="#lram-c">u</c>rer</w>
+        <pc xml:id="Gl6179pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6180" xml:id="Gl6180">
+        <w xml:id="Gl6180w1">A</w>
+        <w xml:id="Gl6180w2">toz</w>
+        <w xml:id="Gl6180w3">les</w>
+        <w xml:id="Gl6180w4">barons</w>
+        <w xml:id="Gl6180w5" ana="#aggl-s">en</w>
+        <w xml:id="Gl6180w6">parlot</w>
+        <pc xml:id="Gl6180pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6181" xml:id="Gl6181">
+        <w xml:id="Gl6181w1">Chascuns</w>
+        <w xml:id="Gl6181w2" ana="#elis">l</w>
+        <w xml:id="Gl6181w3" ana="#aggl-s">en</w>
+        <w xml:id="Gl6181w4">dit</w>
+        <w xml:id="Gl6181w5" ana="#aggl-s-uncert">au</w>
+        <w xml:id="Gl6181w6">mieus</w>
+        <w xml:id="Gl6181w7" ana="#elis">
+          <expan corresp="#ab-sus-qi">q<ex>u</ex></expan>
+        </w>
+        <w xml:id="Gl6181w8">
+          <expan>il</expan>
+        </w>
+        <w xml:id="Gl6181w9">sot</w>
+        <pc xml:id="Gl6181pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg330">
+      <l n="6182" xml:id="Gl6182">
+        <w xml:id="Gl6182w1"><hi rend="init-flour">Q</hi><c ana="#lram-v">V</c>ant</w>
+        <w xml:id="Gl6182w2">il</w>
+        <w xml:id="Gl6182w3" ana="#aggl-s">en</w>
+        <w xml:id="Gl6182w4">ot</w>
+        <w xml:id="Gl6182w5" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6182w6">toz</w>
+        <w xml:id="Gl6182w7">parl<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6182pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6183" xml:id="Gl6183">
+        <w xml:id="Gl6183w1" ana="#aggl-s">Li</w>
+        <persName ref="#FIL">
+          <roleName>
+            <w xml:id="Gl6183w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6183w3">filips</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6183w4" ana="#aggl-s">a</w>
+        <w xml:id="Gl6183w5">comand<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6184" xml:id="Gl6184">
+        <w xml:id="Gl6184w1">Que</w>
+        <w xml:id="Gl6184w2">il</w>
+        <w xml:id="Gl6184w3">tot</w>
+        <w xml:id="Gl6184w4">son</w>
+        <w xml:id="Gl6184w5"><c ana="#lram-c">u</c>oloir</w>
+        <w xml:id="Gl6184w6" ana="#aggl-s-uncert">en</w>
+        <w xml:id="Gl6184w7">face</w>
+        <pc xml:id="Gl6184pc1" resp="#ed">,</pc>
+      </l>
+      <pb xml:id="Gpb75" n="66v"/>
+      <cb xml:id="Gcb139" n="a"/>
+      <l n="6185" xml:id="Gl6185">
+        <w xml:id="Gl6185w1">Que</w>
+        <w xml:id="Gl6185w2" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6185w3">toz</w>
+        <w xml:id="Gl6185w4">plet</w>
+        <pc xml:id="Gl6185pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6185w5">sol</w>
+        <w xml:id="Gl6185w6" ana="#elis">ch</w>
+        <w xml:id="Gl6185w7" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6185w8">lui</w>
+        <w xml:id="Gl6185w9">place</w>
+        <pc xml:id="Gl6185pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6186" xml:id="Gl6186">
+        <w xml:id="Gl6186w1" ana="#aggl-s">Ou</w>
+        <w xml:id="Gl6186w2">del</w>
+        <w xml:id="Gl6186w3">tenir</w>
+        <w xml:id="Gl6186w4">ou</w>
+        <w xml:id="Gl6186w5">del</w>
+        <w xml:id="Gl6186w6">lassier</w>
+        <pc xml:id="Gl6186pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6187" xml:id="Gl6187">
+        <w xml:id="Gl6187w1">Quant</w>
+        <w xml:id="Gl6187w2"><c ana="#lram-c">u</c>oit</w>
+        <w xml:id="Gl6187w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6187w4">rois</w>
+        <w xml:id="Gl6187w5">que</w>
+        <w xml:id="Gl6187w6"><expan corresp="#ab-tir-9"><ex>con</ex></expan>seillier</w>
+      </l>
+      <l n="6188" xml:id="Gl6188">
+        <w xml:id="Gl6188w1" ana="#aggl-s">Ne</w>
+        <w xml:id="Gl6188w2" ana="#elis">l</w>
+        <w xml:id="Gl6188w3">en</w>
+        <w xml:id="Gl6188w4"><c ana="#lram-c">u</c>uelent</w>
+        <w xml:id="Gl6188w5">cil</w>
+        <w xml:id="Gl6188w6">qui</w>
+        <w xml:id="Gl6188w7" ana="#aggl-s">i</w>
+        <w xml:id="Gl6188w8">sont</w>
+        <pc xml:id="Gl6188pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6189" xml:id="Gl6189">
+        <w xml:id="Gl6189w1" ana="#aggl-s">Au</w>
+        <persName ref="#DAN">
+          <roleName>
+            <w xml:id="Gl6189w2">duc</w>
+          </roleName>
+          <w xml:id="Gl6189w3" ana="#elis">d</w>
+          <placeName type="city" ref="#AND">
+            <name>
+              <w xml:id="Gl6189w4">andrenople</w>
+            </name>
+          </placeName>
+        </persName>
+        <w xml:id="Gl6189w5">respont</w>
+        <pc xml:id="Gl6189pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6190" xml:id="Gl6190">
+        <w xml:id="Gl6190w1">Allez</w>
+        <pc xml:id="Gl6190pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6190w2">dites</w>
+        <w xml:id="Gl6190w3" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <persName ref="#CAN">
+          <roleName>
+            <w xml:id="Gl6190w4">rois</w>
+          </roleName>
+          <w xml:id="Gl6190w5" ana="#elis">d</w>
+          <placeName type="region" ref="#ONG">
+            <name>ongrie</name>
+          </placeName>
+        </persName>
+      </l>
+      <l n="6191" xml:id="Gl6191">
+        <w xml:id="Gl6191w1">Que</w>
+        <w xml:id="Gl6191w2">del</w>
+        <w xml:id="Gl6191w3">a<c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6191w4">ne</w>
+        <w xml:id="Gl6191w5">quier</w>
+        <w xml:id="Gl6191w6"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6191w7">mie</w>
+        <pc xml:id="Gl6191pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6192" xml:id="Gl6192">
+        <w xml:id="Gl6192w1">Ainc</w>
+        <w xml:id="Gl6192w2">de</w>
+        <w xml:id="Gl6192w3">gr<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6192w4">ne</w>
+        <w xml:id="Gl6192w5" ana="#encl">l</w>
+        <w xml:id="Gl6192w6">pris</w>
+        <w xml:id="Gl6192w7">por</w>
+        <w xml:id="Gl6192w8">usage</w>
+        <pc xml:id="Gl6192pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6193" xml:id="Gl6193">
+        <w xml:id="Gl6193w1" ana="#aggl-s">Ne</w>
+        <w xml:id="Gl6193w2">refus</w>
+        <w xml:id="Gl6193w3">mie</w>
+        <w xml:id="Gl6193w4" ana="#elis">l</w>
+        <w xml:id="Gl6193w5">omenage</w>
+        <pc xml:id="Gl6193pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6194" xml:id="Gl6194">
+        <w xml:id="Gl6194w1" ana="#elis">L</w>
+        <w xml:id="Gl6194w2">omenaige</w>
+        <w xml:id="Gl6194w3"><c ana="#lram-c">u</c>ueil</w>
+        <w xml:id="Gl6194w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6194w5" ana="#elis">s</w>
+        <w xml:id="Gl6194w6">amor</w>
+      </l>
+      <l n="6195" xml:id="Gl6195">
+        <w xml:id="Gl6195w1">Et</w>
+        <w xml:id="Gl6195w2"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6195w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6195w4">ferai</w>
+        <w xml:id="Gl6195w5">tant</w>
+        <w xml:id="Gl6195w6" ana="#elis">d</w>
+        <w xml:id="Gl6195w7">onor</w>
+      </l>
+      <l n="6196" xml:id="Gl6196">
+        <w xml:id="Gl6196w1">Que</w>
+        <w xml:id="Gl6196w2">toz</w>
+        <w xml:id="Gl6196w3">sez</w>
+        <w xml:id="Gl6196w4">prisons</w>
+        <w xml:id="Gl6196w5" ana="#aggl-s-uncert">a<c ana="#lram-c">u</c>ra</w>
+        <w xml:id="Gl6196w6">quites</w>
+        <pc xml:id="Gl6196pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6197" xml:id="Gl6197">
+        <w xml:id="Gl6197w1">Et</w>
+        <w xml:id="Gl6197w2" ana="#aggl-c">de</w>
+        <w xml:id="Gl6197w3" ana="#aggl">la</w>
+        <w xml:id="Gl6197w4">moie</w>
+        <w xml:id="Gl6197w5">part</w>
+        <w xml:id="Gl6197w6">se</w>
+        <w xml:id="Gl6197w7" ana="#aggl-s">li</w>
+        <w xml:id="Gl6197w8">dites</w>
+        <pc xml:id="Gl6197pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6198" xml:id="Gl6198">
+        <w xml:id="Gl6198w1" ana="#aggl-s">De</w>
+        <w xml:id="Gl6198w2" ana="#elis">l</w>
+        <w xml:id="Gl6198w3">or</w>
+        <w xml:id="Gl6198w4" ana="#elis">qu</w>
+        <w xml:id="Gl6198w5">il</w>
+        <w xml:id="Gl6198w6">me</w>
+        <w xml:id="Gl6198w7"><c ana="#lram-c">u</c>uelt</w>
+        <w xml:id="Gl6198w8">doner</w>
+      </l>
+      <l n="6199" xml:id="Gl6199">
+        <w xml:id="Gl6199w1"><c ana="#lram-c">J</c>e</w>
+        <w xml:id="Gl6199w2" ana="#encl">l</w>
+        <w xml:id="Gl6199w3">donrai</w>
+        <w xml:id="Gl6199w4">lui</w>
+        <w xml:id="Gl6199w5">sanz</w>
+        <w xml:id="Gl6199w6">peser</w>
+        <pc xml:id="Gl6199pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6200" xml:id="Gl6200">
+        <w xml:id="Gl6200w1" ana="#aggl-s"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6200w2">ne</w>
+        <w xml:id="Gl6200w3">sera</w>
+        <w xml:id="Gl6200w4">mis</w>
+        <w xml:id="Gl6200w5" ana="#aggl-s">en</w>
+        <w xml:id="Gl6200w6">balance</w>
+        <pc xml:id="Gl6200pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6201" xml:id="Gl6201">
+        <w xml:id="Gl6201w1">Tant</w>
+        <w xml:id="Gl6201w2" ana="#aggl-s">i</w>
+        <w xml:id="Gl6201w3">metrai</w>
+        <w xml:id="Gl6201w4">par</w>
+        <w xml:id="Gl6201w5">senblance</w>
+      </l>
+      <l n="6202" xml:id="Gl6202">
+        <w xml:id="Gl6202w1">Que</w>
+        <w xml:id="Gl6202w2">il</w>
+        <w xml:id="Gl6202w3" ana="#elis">n</w>
+        <w xml:id="Gl6202w4">a<c ana="#lram-c">u</c>ra</w>
+        <w xml:id="Gl6202w5">mais</w>
+        <w xml:id="Gl6202w6">assez</w>
+      </l>
+      <l n="6203" xml:id="Gl6203">
+        <w xml:id="Gl6203w1">Se</w>
+        <w xml:id="Gl6203w2" ana="#aggl-s">de</w>
+        <w xml:id="Gl6203w3">moi</w>
+        <w xml:id="Gl6203w4"><c ana="#lram-c">u</c>uelt</w>
+        <w xml:id="Gl6203w5">estre</w>
+        <w xml:id="Gl6203w6">pri<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6203pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6204" xml:id="Gl6204">
+        <w xml:id="Gl6204w1">Dites</w>
+        <w xml:id="Gl6204w2" ana="#aggl-s-uncert">li</w>
+        <w xml:id="Gl6204w3">que</w>
+        <w xml:id="Gl6204w4" ana="#aggl-c"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6204w5" ana="#aggl">li</w>
+        <w xml:id="Gl6204w6">otroi</w>
+      </l>
+      <l n="6205" xml:id="Gl6205">
+        <w xml:id="Gl6205w1">Loial</w>
+        <w xml:id="Gl6205w2">amor</w>
+        <w xml:id="Gl6205w3">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6205w4">bone</w>
+        <w xml:id="Gl6205w5">foi</w>
+        <pc xml:id="Gl6205pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6206" xml:id="Gl6206">
+        <w xml:id="Gl6206w1">Se</w>
+        <w xml:id="Gl6206w2"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6206w3" ana="#aggl-s">la</w>
+        <w xml:id="Gl6206w4">puis</w>
+        <w xml:id="Gl6206w5">tro<c ana="#lram-c">u</c>er</w>
+        <w xml:id="Gl6206w6" ana="#aggl-s">en</w>
+        <w xml:id="Gl6206w7">lui</w>
+      </l>
+      <l n="6207" xml:id="Gl6207">
+        <w xml:id="Gl6207w1">Buen</w>
+        <w xml:id="Gl6207w2">ami</w>
+        <w xml:id="Gl6207w3">serons</w>
+        <w xml:id="Gl6207w4">anbedui</w>
+        <pc xml:id="Gl6207pc1" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6190w1" to="Gl6207w4" type="directspeech"/>
+      <l n="6208" xml:id="Gl6208">
+        <w xml:id="Gl6208w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6208w2">parole</w>
+        <w xml:id="Gl6208w3">ot</w>
+        <w xml:id="Gl6208w4">bien</w>
+        <w xml:id="Gl6208w5">o<c ana="#hiat">i</c>e</w>
+      </l>
+      <l n="6209" xml:id="Gl6209">
+        <w xml:id="Gl6209w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6209w2">dux</w>
+        <pc xml:id="Gl6209pc1" resp="#ed">,</pc>
+        <pc xml:id="Gl6209pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6209w3">puis</w>
+        <w xml:id="Gl6209w4"><c ana="#lram-c">u</c>ait</w>
+        <w xml:id="Gl6209w5" ana="#aggl-s">au</w>
+        <persName ref="#CAN">
+          <roleName>
+            <w xml:id="Gl6209w6">rois</w>
+          </roleName>
+          <w xml:id="Gl6209w7" ana="#elis">d</w>
+          <placeName type="region" ref="#ONG">
+            <name>ongrie</name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6209pc3" resp="#ed">:</pc>
+      </l>
+      <l n="6210" xml:id="Gl6210">
+        <w xml:id="Gl6210w1">Tot</w>
+        <w xml:id="Gl6210w2">en</w>
+        <w xml:id="Gl6210w3">ordre</w>
+        <w xml:id="Gl6210w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6210w5">ot</w>
+        <w xml:id="Gl6210w6">cont<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6211" xml:id="Gl6211">
+        <w xml:id="Gl6211w1">Ce</w>
+        <w xml:id="Gl6211w2">qui</w>
+        <w xml:id="Gl6211w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6211w4">rois</w>
+        <w xml:id="Gl6211w5" ana="#aggl-s">li</w>
+        <w xml:id="Gl6211w6">ont</w>
+        <w xml:id="Gl6211w7">mand<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6211pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg331">
+      <l n="6212" xml:id="Gl6212">
+        <w xml:id="Gl6212w1" ana="#aggl-s-uncert">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <persName ref="#CAN">
+          <roleName>
+            <w xml:id="Gl6212w2">rois</w>
+          </roleName>
+          <w xml:id="Gl6212w3" ana="#elis">d</w>
+          <placeName type="region" ref="#ONG">
+            <name>ongrie</name>
+          </placeName>
+        </persName>
+        <w xml:id="Gl6212w4" ana="#elis">s</w>
+        <w xml:id="Gl6212w5">en</w>
+        <w xml:id="Gl6212w6">mer<c ana="#lram-c">u</c>oille</w>
+        <pc xml:id="Gl6212pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6213" xml:id="Gl6213">
+        <w xml:id="Gl6213w1">As</w>
+        <w xml:id="Gl6213w2">autres</w>
+        <w xml:id="Gl6213w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6213w4">dit</w>
+        <w xml:id="Gl6213w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6213w6">coinsoille</w>
+      </l>
+      <l n="6214" xml:id="Gl6214">
+        <w xml:id="Gl6214w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6214w2">il</w>
+        <w xml:id="Gl6214w3" ana="#elis">n</w>
+        <w xml:id="Gl6214w4">a</w>
+        <w xml:id="Gl6214w5" ana="#aggl-s">si</w>
+        <w xml:id="Gl6214w6">riche</w>
+        <w xml:id="Gl6214w7">cuer</w>
+        <w xml:id="Gl6214w8" ana="#aggl-s">el</w>
+        <w xml:id="Gl6214w9">mont</w>
+      </l>
+      <l n="6215" xml:id="Gl6215">
+        <w xml:id="Gl6215w1">Com</w>
+        <w xml:id="Gl6215w2">il</w>
+        <w xml:id="Gl6215w3" ana="#aggl-c">a</w>
+        <w xml:id="Gl6215w4" ana="#aggl">li</w>
+        <persName ref="#FLO">
+          <roleName>
+            <w xml:id="Gl6215w5">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6215w6">floriemont</w>
+          </forename>
+        </persName>
+        <pc xml:id="Gl6215pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6216" xml:id="Gl6216">
+        <w xml:id="Gl6216w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6216w2">ne</w>
+        <w xml:id="Gl6216w3">quiert</w>
+        <w xml:id="Gl6216w4">a<c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6216w5">mes</w>
+        <w xml:id="Gl6216w6">honor</w>
+        <pc xml:id="Gl6216pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6217" xml:id="Gl6217">
+        <w xml:id="Gl6217w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6217w2" ana="#aggl-s">i</w>
+        <w xml:id="Gl6217w3">a<c ana="#lram-c">u</c>rons</w>
+        <w xml:id="Gl6217w4" ana="#aggl-s">en</w>
+        <w xml:id="Gl6217w5">lui</w>
+        <w xml:id="Gl6217w6">buen</w>
+        <w xml:id="Gl6217w7">seignor</w>
+        <pc xml:id="Gl6217pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6218" xml:id="Gl6218">
+        <w xml:id="Gl6218w1">Nos</w>
+        <w xml:id="Gl6218w2">farons</w>
+        <w xml:id="Gl6218w3">del</w>
+        <w xml:id="Gl6218w4">tot</w>
+        <w xml:id="Gl6218w5">son</w>
+        <w xml:id="Gl6218w6">comant</w>
+        <pc xml:id="Gl6218pc1" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6216w1" to="Gl6218w6" type="directspeech"/>
+      <l n="6219" xml:id="Gl6219">
+        <w xml:id="Gl6219w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6219w2">duc</w>
+        <w xml:id="Gl6219w3" ana="#elis">n</w>
+        <w xml:id="Gl6219w4">ont</w>
+        <w xml:id="Gl6219w5">fait</w>
+        <w xml:id="Gl6219w6">lor</w>
+        <w xml:id="Gl6219w7">garant</w>
+        <pc xml:id="Gl6219pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6220" xml:id="Gl6220">
+        <w xml:id="Gl6220w1">Puis</w>
+        <w xml:id="Gl6220w2">furen</w>
+        <w xml:id="Gl6220w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6220w4">rois</w>
+        <w xml:id="Gl6220w5">deli<c ana="#lram-c">u</c>r<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6221" xml:id="Gl6221">
+        <w xml:id="Gl6221w1">Et</w>
+        <w xml:id="Gl6221w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6221w3">prisons</w>
+        <w xml:id="Gl6221w4" ana="#aggl-s">de</w>
+        <w xml:id="Gl6221w5">la</w>
+        <w xml:id="Gl6221w6">cit<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6222" xml:id="Gl6222">
+        <w xml:id="Gl6222w1">Trestuit</w>
+        <w xml:id="Gl6222w2">li<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6222w3">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6222w4"><c ana="#lram-c">i</c>oiant</w>
+        <w xml:id="Gl6222w5" ana="#elis">s</w>
+        <w xml:id="Gl6222w6" ana="#aggl-s">en</w>
+        <w xml:id="Gl6222w7"><c ana="#lram-c">u</c>ont</w>
+      </l>
+      <l n="6223" xml:id="Gl6223">
+        <w xml:id="Gl6223w1" ana="#aggl-s">Eu</w>
+        <w xml:id="Gl6223w2">paleis</w>
+        <w xml:id="Gl6223w3" ana="#aggl-s">au</w>
+        <persName ref="#FLO">
+          <roleName>
+            <w xml:id="Gl6223w4">roi</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6223w5">floriemont</w>
+          </forename>
+        </persName>
+        <pc xml:id="Gl6223pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6224" xml:id="Gl6224">
+        <w xml:id="Gl6224w1">Les</w>
+        <w xml:id="Gl6224w2">homaiges</w>
+        <w xml:id="Gl6224w3" ana="#aggl-s">en</w>
+        <w xml:id="Gl6224w4">font</w>
+        <w xml:id="Gl6224w5" ana="#aggl-s">au</w>
+        <w xml:id="Gl6224w6">roi</w>
+      </l>
+      <l n="6225" xml:id="Gl6225">
+        <w xml:id="Gl6225w1">Cil</w>
+        <w xml:id="Gl6225w2" ana="#elis">d</w>
+        <placeName type="region" ref="#ONG">
+          <name>
+            <w xml:id="Gl6225w3">ongrie</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6225w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6225w5">puis</w>
+        <w xml:id="Gl6225w6" ana="#aggl-s">li</w>
+        <w xml:id="Gl6225w7">roi</w>
+        <pc xml:id="Gl6225pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6226" xml:id="Gl6226">
+        <w xml:id="Gl6226w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6226w2">lor</w>
+        <w xml:id="Gl6226w3">tient</w>
+        <w xml:id="Gl6226w4">bien</w>
+        <w xml:id="Gl6226w5">lor</w>
+        <w xml:id="Gl6226w6">con<c ana="#lram-c">u</c>ient</w>
+        <pc xml:id="Gl6226pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6227" xml:id="Gl6227">
+        <w xml:id="Gl6227w1">Plus</w>
+        <w xml:id="Gl6227w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6227w3">a</w>
+        <w xml:id="Gl6227w4">don<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6227w5" ana="#elis">d</w>
+        <w xml:id="Gl6227w6">or</w>
+        <w xml:id="Gl6227w7" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6227w8" ana="#elis">d</w>
+        <w xml:id="Gl6227w9">argent</w>
+      </l>
+      <l n="6228" xml:id="Gl6228">
+        <w xml:id="Gl6228w1">Que</w>
+        <w xml:id="Gl6228w2">il</w>
+        <w xml:id="Gl6228w3">ne</w>
+        <w xml:id="Gl6228w4">lor</w>
+        <w xml:id="Gl6228w5">a<c ana="#lram-c">u</c>oit</w>
+        <w xml:id="Gl6228w6">promis</w>
+        <pc xml:id="Gl6228pc1" resp="#ed">,</pc>
+      </l>
+      <cb xml:id="Gcb140" n="b"/>
+      <l n="6229" xml:id="Gl6229">
+        <w xml:id="Gl6229w1">Et</w>
+        <w xml:id="Gl6229w2">as</w>
+        <w xml:id="Gl6229w3">prisons</w>
+        <w xml:id="Gl6229w4" ana="#aggl-s">de</w>
+        <w xml:id="Gl6229w5">lor</w>
+        <w xml:id="Gl6229w6">pa<c ana="#hiat">i</c>s</w>
+      </l>
+      <l n="6230" xml:id="Gl6230">
+        <w xml:id="Gl6230w1">Fist</w>
+        <w xml:id="Gl6230w2">doner</w>
+        <w xml:id="Gl6230w3" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6230w4">toz</w>
+        <w xml:id="Gl6230w5" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6230w6"><c ana="#lram-c">u</c>estir</w>
+        <pc xml:id="Gl6230pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6231" xml:id="Gl6231">
+        <w xml:id="Gl6231w1">Touz</w>
+        <w xml:id="Gl6231w2">les</w>
+        <w xml:id="Gl6231w3">prisonz</w>
+        <w xml:id="Gl6231w4">faisoit</w>
+        <w xml:id="Gl6231w5">ser<c ana="#lram-c">u</c>ir</w>
+        <pc xml:id="Gl6231pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6232" xml:id="Gl6232">
+        <w xml:id="Gl6232w1">Quant</w>
+        <w xml:id="Gl6232w2">les</w>
+        <w xml:id="Gl6232w3">ont</w>
+        <w xml:id="Gl6232w4">deli<c ana="#lram-c">u</c>r<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6232pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6232w5" ana="#aggl-s">li</w>
+        <w xml:id="Gl6232w6">rois</w>
+      </l>
+      <l n="6233" xml:id="Gl6233">
+        <w xml:id="Gl6233w1">Tant</w>
+        <w xml:id="Gl6233w2">lor</w>
+        <w xml:id="Gl6233w3">dona</w>
+        <w xml:id="Gl6233w4" ana="#aggl-s">de</w>
+        <w xml:id="Gl6233w5">bieus</w>
+        <w xml:id="Gl6233w6">hernois</w>
+      </l>
+      <l n="6234" xml:id="Gl6234">
+        <w xml:id="Gl6234w1">Que</w>
+        <pc xml:id="Gl6234pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6234w2" ana="#aggl-s">por</w>
+        <w xml:id="Gl6234w3">ce</w>
+        <w xml:id="Gl6234w4" ana="#elis">qu</w>
+        <w xml:id="Gl6234w5">il</w>
+        <w xml:id="Gl6234w6">le</w>
+        <w xml:id="Gl6234w7">fist</w>
+        <w xml:id="Gl6234w8" ana="#elis">d</w>
+        <w xml:id="Gl6234w9">onor</w>
+        <pc xml:id="Gl6234pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6235" xml:id="Gl6235">
+        <w xml:id="Gl6235w1" ana="#elis">L</w>
+        <w xml:id="Gl6235w2">amoient</w>
+        <w xml:id="Gl6235w3">plus</w>
+        <w xml:id="Gl6235w4">que</w>
+        <w xml:id="Gl6235w5">lor</w>
+        <w xml:id="Gl6235w6">seignor</w>
+        <pc xml:id="Gl6235pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg332">
+      <l n="6236" xml:id="Gl6236">
+        <w xml:id="Gl6236w1"><hi rend="init-flour">Q</hi><c ana="#lram-v">V</c>ant</w>
+        <w xml:id="Gl6236w2" ana="#aggl-s">si</w>
+        <w xml:id="Gl6236w3">furent</w>
+        <w xml:id="Gl6236w4">tuit</w>
+        <w xml:id="Gl6236w5">acord<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6236pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6237" xml:id="Gl6237">
+        <w xml:id="Gl6237w1">Et</w>
+        <w xml:id="Gl6237w2" ana="#aggl-s">li</w>
+        <persName ref="#FIL">
+          <roleName>
+            <w xml:id="Gl6237w3">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6237w4">filips</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6237w5" ana="#aggl-s">a</w>
+        <w xml:id="Gl6237w6">parl<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6237pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6238" xml:id="Gl6238">
+        <w xml:id="Gl6238w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6238w2" ana="#aggl-s">a</w>
+        <w xml:id="Gl6238w3">li</w>
+        <w xml:id="Gl6238w4"><c ana="#lram-c">i</c>oine</w>
+        <w xml:id="Gl6238w5">roi</w>
+        <w xml:id="Gl6238w6">proi<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6238pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6239" xml:id="Gl6239">
+        <w xml:id="Gl6239w1">Doucement</w>
+        <w xml:id="Gl6239w2" ana="#aggl-s-uncert">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6239w3">por</w>
+        <w xml:id="Gl6239w4">amist<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6239pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6240" xml:id="Gl6240">
+        <w xml:id="Gl6240w1" ana="#aggl-s">Qu</w>
+        <w xml:id="Gl6240w2">au</w>
+        <persName ref="#RDC">
+          <roleName>
+            <w xml:id="Gl6240w3">roi</w>
+          </roleName>
+          <w xml:id="Gl6240w4">de</w>
+          <placeName type="region" ref="#CRE">
+            <name>
+              <w xml:id="Gl6240w5">crite</w>
+            </name>
+          </placeName>
+        </persName>
+        <w xml:id="Gl6240w6">faice</w>
+        <w xml:id="Gl6240w7">pais</w>
+      </l>
+      <l n="6241" xml:id="Gl6241">
+        <w xml:id="Gl6241w1">De</w>
+        <w xml:id="Gl6241w2">ce</w>
+        <w xml:id="Gl6241w3" ana="#elis">qu</w>
+        <w xml:id="Gl6241w4">il</w>
+        <w xml:id="Gl6241w5" ana="#aggl-s">le</w>
+        <w xml:id="Gl6241w6">dist</w>
+        <w xml:id="Gl6241w7" ana="#aggl-s">eu</w>
+        <w xml:id="Gl6241w8">palais</w>
+        <pc xml:id="Gl6241pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6242" xml:id="Gl6242">
+        <w xml:id="Gl6242w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6242w2" ana="#elis">l</w>
+        <w xml:id="Gl6242w3" ana="#aggl-s-uncert">en</w>
+        <w xml:id="Gl6242w4">prient</w>
+        <w xml:id="Gl6242w5">touz</w>
+        <w xml:id="Gl6242w6">les</w>
+        <w xml:id="Gl6242w7">barons</w>
+      </l>
+      <l n="6243" xml:id="Gl6243">
+        <w xml:id="Gl6243w1">Et</w>
+        <w xml:id="Gl6243w2">il</w>
+        <w xml:id="Gl6243w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6243w4">dit</w>
+        <pc xml:id="Gl6243pc1" resp="#ed">:</pc>
+        <w xml:id="Gl6243w5"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6243w6" ana="#encl">l</w>
+        <w xml:id="Gl6243w7"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6243w8">pardons</w>
+        <pc xml:id="Gl6243pc2" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6243w5" to="Gl6243w8" type="directspeech"/>
+      <l n="6244" xml:id="Gl6244">
+        <w xml:id="Gl6244w1">Sire</w>
+        <pc xml:id="Gl6244pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6244w2">fet</w>
+        <w xml:id="Gl6244w3">il</w>
+        <pc xml:id="Gl6244pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6244w4"><c ana="#lram-c">u</c>estre</w>
+        <w xml:id="Gl6244w5">merci</w>
+        <pc xml:id="Gl6244pc3" resp="#ed">,</pc>
+      </l>
+      <l n="6245" xml:id="Gl6245">
+        <w xml:id="Gl6245w1" ana="#elis">D</w>
+        <w xml:id="Gl6245w2">or</w>
+        <w xml:id="Gl6245w3" ana="#aggl-s">en</w>
+        <w xml:id="Gl6245w4">a<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6245w5">serons</w>
+        <w xml:id="Gl6245w6">ami</w>
+        <pc xml:id="Gl6245pc1" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6244w1" to="Gl6245w6" type="directspeech"/>
+    </lg>
+    <lg xml:id="Glg333">
+      <l n="6246" xml:id="Gl6246">
+        <w xml:id="Gl6246w1"><hi rend="init-flour">O</hi>R</w>
+        <w xml:id="Gl6246w2">furent</w>
+        <w xml:id="Gl6246w3">tuit</w>
+        <w xml:id="Gl6246w4">
+          <choice>
+            <sic>ioiaus</sic>
+            <corr>joians</corr>
+          </choice>
+        </w>
+        <w xml:id="Gl6246w5" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6246w6">li<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6246pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6247" xml:id="Gl6247">
+        <w xml:id="Gl6247w1">En</w>
+        <w xml:id="Gl6247w2">poi</w>
+        <w xml:id="Gl6247w3" ana="#aggl-s">de</w>
+        <w xml:id="Gl6247w4">tens</w>
+        <w xml:id="Gl6247w5">seront</w>
+        <w xml:id="Gl6247w6">iri<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6247pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6248" xml:id="Gl6248">
+        <w xml:id="Gl6248w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6248w2">fu</w>
+        <w xml:id="Gl6248w3">iri<c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6248w4">touz</w>
+        <w xml:id="Gl6248w5" ana="#aggl-s">le</w>
+        <w xml:id="Gl6248w6">bernaiges</w>
+      </l>
+      <l n="6249" xml:id="Gl6249">
+        <w xml:id="Gl6249w1">Quant</w>
+        <w xml:id="Gl6249w2">el</w>
+        <w xml:id="Gl6249w3">palais</w>
+        <w xml:id="Gl6249w4"><c ana="#lram-c">u</c>ient</w>
+        <w xml:id="Gl6249w5" ana="#aggl-s-uncert">un</w>
+        <w xml:id="Gl6249w6">mesaige</w>
+        <pc xml:id="Gl6249pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6250" xml:id="Gl6250">
+        <w xml:id="Gl6250w1">Tot</w>
+        <w xml:id="Gl6250w2">droit</w>
+        <w xml:id="Gl6250w3" ana="#elis">s</w>
+        <w xml:id="Gl6250w4">en</w>
+        <w xml:id="Gl6250w5"><c ana="#lram-c">u</c>ait</w>
+        <w xml:id="Gl6250w6" ana="#aggl-s-uncert">au</w>
+        <w xml:id="Gl6250w7"><c ana="#lram-c">i</c>oine</w>
+        <w xml:id="Gl6250w8">roi</w>
+        <pc xml:id="Gl6250pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6251" xml:id="Gl6251">
+        <w xml:id="Gl6251w1">Sire</w>
+        <pc xml:id="Gl6251pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6251w2">fet</w>
+        <w xml:id="Gl6251w3">il</w>
+        <pc xml:id="Gl6251pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6251w4">entendez</w>
+        <w xml:id="Gl6251w5" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6251w6">moi</w>
+        <pc xml:id="Gl6251pc3" resp="#ed">:</pc>
+      </l>
+      <l n="6252" xml:id="Gl6252">
+        <w xml:id="Gl6252w1" ana="#aggl-s">De</w>
+        <w xml:id="Gl6252w2"><c ana="#lram-c">u</c>estre</w>
+        <w xml:id="Gl6252w3">te<expan corresp="#ab-tild-ang-hor"><ex>r</ex></expan>1re</w>
+        <w xml:id="Gl6252w4">sui</w>
+        <w xml:id="Gl6252w5"><c ana="#lram-c">u</c>enuz</w>
+        <pc xml:id="Gl6252pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6253" xml:id="Gl6253">
+        <w xml:id="Gl6253w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6253w2">pa<c ana="#hiat">i</c>s</w>
+        <w xml:id="Gl6253w3">est</w>
+        <w xml:id="Gl6253w4">touz</w>
+        <w xml:id="Gl6253w5">confonduz</w>
+      </l>
+      <l n="6254" xml:id="Gl6254">
+        <w xml:id="Gl6254w1">Quar</w>
+        <w xml:id="Gl6254w2" ana="#aggl-s-uncert">li</w>
+        <persName ref="#ADC">
+          <roleName>
+            <w xml:id="Gl6254w3">amiraus</w>
+          </roleName>
+          <w xml:id="Gl6254w4">de</w>
+          <placeName type="city" ref="#CAR">
+            <name>
+              <w xml:id="Gl6254w5">chartaige</w>
+            </name>
+          </placeName>
+        </persName>
+      </l>
+      <l n="6255" xml:id="Gl6255">
+        <w xml:id="Gl6255w1" ana="#aggl-s">A</w>
+        <w xml:id="Gl6255w2">tot</w>
+        <w xml:id="Gl6255w3">ars</w>
+        <w xml:id="Gl6255w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6255w5">fondu</w>
+        <w xml:id="Gl6255w6" ana="#elis">l</w>
+        <w xml:id="Gl6255w7">estaige</w>
+      </l>
+      <l n="6256" xml:id="Gl6256">
+        <w xml:id="Gl6256w1"><c ana="#lram-c">V</c>ostre</w>
+        <w xml:id="Gl6256w2">pere</w>
+        <pc xml:id="Gl6256pc1" resp="#ed">,</pc>
+        <pc xml:id="Gl6256pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6256w3" ana="#aggl-c">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6256w4" ana="#aggl">si</w>
+        <w xml:id="Gl6256w5" ana="#elis">l</w>
+        <w xml:id="Gl6256w6">a</w>
+        <w xml:id="Gl6256w7">pris</w>
+        <pc xml:id="Gl6256pc3" resp="#ed">,</pc>
+      </l>
+      <l n="6257" xml:id="Gl6257">
+        <w xml:id="Gl6257w1">Men<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6257w2" ana="#elis">l</w>
+        <w xml:id="Gl6257w3">en</w>
+        <w xml:id="Gl6257w4">a</w>
+        <w xml:id="Gl6257w5" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6257w6">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6258" xml:id="Gl6258">
+        <w xml:id="Gl6258w1">Nuls</w>
+        <w xml:id="Gl6258w2">ne</w>
+        <w xml:id="Gl6258w3" ana="#elis">l</w>
+        <w xml:id="Gl6258w4">en</w>
+        <w xml:id="Gl6258w5">puet</w>
+        <w xml:id="Gl6258w6">fere</w>
+        <w xml:id="Gl6258w7">tort</w>
+        <pc xml:id="Gl6258pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6259" xml:id="Gl6259">
+        <w xml:id="Gl6259w1">Et</w>
+        <w xml:id="Gl6259w2">la</w>
+        <w xml:id="Gl6259w3">duchesse</w>
+        <w xml:id="Gl6259w4"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6259w5">mere</w>
+      </l>
+      <l n="6260" xml:id="Gl6260">
+        <w xml:id="Gl6260w1">Fet</w>
+        <w xml:id="Gl6260w2" ana="#aggl-s-uncert">tel</w>
+        <w xml:id="Gl6260w3">dolor</w>
+        <w xml:id="Gl6260w4">par</w>
+        <w xml:id="Gl6260w5"><c ana="#lram-c">u</c>estre</w>
+        <w xml:id="Gl6260w6">pere</w>
+        <pc xml:id="Gl6260pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6261" xml:id="Gl6261">
+        <w xml:id="Gl6261w1">Se</w>
+        <w xml:id="Gl6261w2">ne</w>
+        <w xml:id="Gl6261w3">la</w>
+        <w xml:id="Gl6261w4">cuit</w>
+        <w xml:id="Gl6261w5">pas</w>
+        <w xml:id="Gl6261w6">tro<c ana="#lram-c">u</c>er</w>
+        <w xml:id="Gl6261w7"><c ana="#lram-c">u</c>i<c ana="#lram-c">u</c>e</w>
+        <pc xml:id="Gl6261pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6262" xml:id="Gl6262">
+        <w xml:id="Gl6262w1">Tote</w>
+        <w xml:id="Gl6262w2" ana="#elis">n</w>
+        <w xml:id="Gl6262w3">est</w>
+        <w xml:id="Gl6262w4">lasse</w>
+        <w xml:id="Gl6262w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6262w6">chaiti<c ana="#lram-c">u</c>e</w>
+        <pc xml:id="Gl6262pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6263" xml:id="Gl6263">
+        <w xml:id="Gl6263w1">Sire</w>
+        <pc xml:id="Gl6263pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6263w2">por</w>
+        <persName type="divinity" ref="#DIE">
+          <name>
+            <w xml:id="Gl6263w3">dieu</w>
+          </name>
+        </persName>
+        <pc xml:id="Gl6263pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6263w4">quar</w>
+        <w xml:id="Gl6263w5" ana="#aggl-s">i</w>
+        <w xml:id="Gl6263w6">alez</w>
+      </l>
+      <l n="6264" xml:id="Gl6264">
+        <w xml:id="Gl6264w1">Et</w>
+        <w xml:id="Gl6264w2"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6264w3">pere</w>
+        <w xml:id="Gl6264w4">secorez</w>
+        <pc xml:id="Gl6264pc1" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6251w1" to="Gl6264w4" type="directspeech"/>
+    </lg>
+    <lg xml:id="Glg334">
+      <l n="6265" xml:id="Gl6265">
+        <w xml:id="Gl6265w1" ana="#aggl-s">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6265w2"><c ana="#lram-c">i</c>oine</w>
+        <w xml:id="Gl6265w3">roi</w>
+        <w xml:id="Gl6265w4">fu</w>
+        <w xml:id="Gl6265w5">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6265w6">iri<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6265pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6266" xml:id="Gl6266">
+        <w xml:id="Gl6266w1">De</w>
+        <w xml:id="Gl6266w2">ce</w>
+        <w xml:id="Gl6266w3" ana="#elis">qu</w>
+        <w xml:id="Gl6266w4">il</w>
+        <w xml:id="Gl6266w5">ot</w>
+        <w xml:id="Gl6266w6">fu</w>
+        <w xml:id="Gl6266w7">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6266w8">changi<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6266pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6267" xml:id="Gl6267">
+        <w xml:id="Gl6267w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6267w2">sospiroit</w>
+        <w xml:id="Gl6267w3">de</w>
+        <w xml:id="Gl6267w4">cuer</w>
+        <w xml:id="Gl6267w5">parfont</w>
+        <pc xml:id="Gl6267pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6268" xml:id="Gl6268">
+        <w xml:id="Gl6268w1">Toz</w>
+        <w xml:id="Gl6268w2">les</w>
+        <w xml:id="Gl6268w3">ielz</w>
+        <w xml:id="Gl6268w4">ot</w>
+        <w xml:id="Gl6268w5">mu<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6268w6">el</w>
+        <w xml:id="Gl6268w7">f<expan corresp="#ab-tild-ang-hor"><ex>r</ex></expan>ont</w>
+        <pc xml:id="Gl6268pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6269" xml:id="Gl6269">
+        <w xml:id="Gl6269w1">Sire</w>
+        <pc xml:id="Gl6269pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6269w2">ce</w>
+        <w xml:id="Gl6269w3">dist</w>
+        <w xml:id="Gl6269w4" ana="#aggl-s">li</w>
+        <persName ref="#CAN">
+          <roleName>
+            <w xml:id="Gl6269w5">rois</w>
+          </roleName>
+          <w xml:id="Gl6269w6" ana="#elis">d</w>
+          <placeName type="region" ref="#ONG">
+            <name>ongrie</name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6269pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6270" xml:id="Gl6270">
+        <w xml:id="Gl6270w1">De</w>
+        <w xml:id="Gl6270w2">ce</w>
+        <w xml:id="Gl6270w3" ana="#aggl-s">ne</w>
+        <w xml:id="Gl6270w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6270w5">esmaiez</w>
+        <w xml:id="Gl6270w6">mie</w>
+        <pc xml:id="Gl6270pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6271" xml:id="Gl6271">
+        <w xml:id="Gl6271w1" ana="#aggl-s"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6271w2">ne</w>
+        <w xml:id="Gl6271w3">partirons</w>
+        <w xml:id="Gl6271w4" ana="#aggl-s">de</w>
+        <w xml:id="Gl6271w5"><c ana="#lram-c">u</c>os</w>
+      </l>
+      <pb xml:id="Gpb76" n="67r"/>
+      <cb xml:id="Gcb141" n="a"/>
+      <l n="6272" xml:id="Gl6272">
+        <w xml:id="Gl6272w1">Tant</w>
+        <w xml:id="Gl6272w2">que</w>
+        <w xml:id="Gl6272w3">li</w>
+        <w xml:id="Gl6272w4">dux</w>
+        <w xml:id="Gl6272w5">sera</w>
+        <w xml:id="Gl6272w6">reschos</w>
+        <pc xml:id="Gl6272pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6273" xml:id="Gl6273">
+        <w xml:id="Gl6273w1"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6273w2" ana="#elis">n</w>
+        <w xml:id="Gl6273w3">i</w>
+        <w xml:id="Gl6273w4">a<c ana="#lram-c">u</c>ra</w>
+        <w xml:id="Gl6273w5">ci</w>
+        <w xml:id="Gl6273w6">duc</w>
+        <w xml:id="Gl6273w7">ne</w>
+        <w xml:id="Gl6273w8">roi</w>
+      </l>
+      <l n="6274" xml:id="Gl6274">
+        <w xml:id="Gl6274w1">Qui</w>
+        <w xml:id="Gl6274w2">chascuns</w>
+        <w xml:id="Gl6274w3">ni</w>
+        <w xml:id="Gl6274w4"><c ana="#lram-c">u</c>iegne</w>
+        <w xml:id="Gl6274w5" ana="#aggl-s">par</w>
+        <w xml:id="Gl6274w6">soi</w>
+        <pc xml:id="Gl6274pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6275" xml:id="Gl6275">
+        <w xml:id="Gl6275w1"><c ana="#lram-c">V</c>os</w>
+        <w xml:id="Gl6275w2">poez</w>
+        <w xml:id="Gl6275w3">a<c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6275w4">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6275w5">grant</w>
+        <w xml:id="Gl6275w6">gent</w>
+        <pc xml:id="Gl6275pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6276" xml:id="Gl6276">
+        <w xml:id="Gl6276w1" ana="#aggl-s">Si</w>
+        <w xml:id="Gl6276w2">li</w>
+        <w xml:id="Gl6276w3">amiraus</w>
+        <w xml:id="Gl6276w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6276w5">atent</w>
+        <pc xml:id="Gl6276pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6277" xml:id="Gl6277">
+        <w xml:id="Gl6277w1">Fere</w>
+        <w xml:id="Gl6277w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6277w3">poez</w>
+        <w xml:id="Gl6277w4">grant</w>
+        <w xml:id="Gl6277w5">domaige</w>
+      </l>
+      <l n="6278" xml:id="Gl6278">
+        <w xml:id="Gl6278w1" ana="#aggl-c-uncert">Et</w>
+        <w xml:id="Gl6278w2" ana="#aggl-uncert">lui</w>
+        <w xml:id="Gl6278w3">prendre</w>
+        <w xml:id="Gl6278w4">enz</w>
+        <w xml:id="Gl6278w5" ana="#aggl-s">en</w>
+        <placeName type="city" ref="#CAR">
+          <name>
+            <w xml:id="Gl6278w6">chartaige</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6278pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6279" xml:id="Gl6279">
+        <w xml:id="Gl6279w1">Quant</w>
+        <w xml:id="Gl6279w2">nos</w>
+        <w xml:id="Gl6279w3">a<c ana="#lram-c">u</c>rons</w>
+        <w xml:id="Gl6279w4" ana="#elis">l</w>
+        <w xml:id="Gl6279w5">amiraus</w>
+        <w xml:id="Gl6279w6">pris</w>
+        <pc xml:id="Gl6279pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6280" xml:id="Gl6280">
+        <w xml:id="Gl6280w1" ana="#aggl-s">Si</w>
+        <w xml:id="Gl6280w2">le</w>
+        <w xml:id="Gl6280w3">menrons</w>
+        <w xml:id="Gl6280w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6280w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6280pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6281" xml:id="Gl6281">
+        <w xml:id="Gl6281w1">De<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6281w2">le</w>
+        <w xml:id="Gl6281w3">chastel</w>
+        <w xml:id="Gl6281w4">soit</w>
+        <w xml:id="Gl6281w5">penduz</w>
+      </l>
+      <l n="6282" xml:id="Gl6282">
+        <w xml:id="Gl6282w1">Se</w>
+        <w xml:id="Gl6282w2">li</w>
+        <w xml:id="Gl6282w3">dux</w>
+        <w xml:id="Gl6282w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6282w5">ne</w>
+        <w xml:id="Gl6282w6">est</w>
+        <w xml:id="Gl6282w7">renduz</w>
+        <pc xml:id="Gl6282pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg335">
+      <l n="6283" xml:id="Gl6283">
+        <w xml:id="Gl6283w1" ana="#aggl-s-uncert">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6283w2">chastieus</w>
+        <w xml:id="Gl6283w3">est</w>
+        <w xml:id="Gl6283w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6283w5">buen</w>
+        <w xml:id="Gl6283w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6283w7">forz</w>
+        <pc xml:id="Gl6283pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6284" xml:id="Gl6284">
+        <w xml:id="Gl6284w1" ana="#aggl-s">De</w>
+        <w xml:id="Gl6284w2">mier</w>
+        <w xml:id="Gl6284w3">est</w>
+        <w xml:id="Gl6284w4">riches</w>
+        <w xml:id="Gl6284w5" ana="#aggl-s">le</w>
+        <w xml:id="Gl6284w6">porz</w>
+        <pc xml:id="Gl6284pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6285" xml:id="Gl6285">
+        <w xml:id="Gl6285w1">Sor</w>
+        <w xml:id="Gl6285w2">une</w>
+        <w xml:id="Gl6285w3">roche</w>
+        <w xml:id="Gl6285w4">siet</w>
+        <w xml:id="Gl6285w5">
+          <choice>
+            <sic>autiue</sic>
+            <corr>antive</corr>
+          </choice>
+        </w>
+      </l>
+      <l n="6286" xml:id="Gl6286">
+        <w xml:id="Gl6286w1">Aute</w>
+        <w xml:id="Gl6286w2">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6286w3">ruiste</w>
+        <w xml:id="Gl6286w4">enz</w>
+        <w xml:id="Gl6286w5" ana="#aggl-s">la</w>
+        <w xml:id="Gl6286w6">ri<c ana="#lram-c">u</c>e</w>
+        <pc xml:id="Gl6286pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6287" xml:id="Gl6287">
+        <w xml:id="Gl6287w1">Sire</w>
+        <pc xml:id="Gl6287pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6287w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6287w3">est</w>
+        <w xml:id="Gl6287w4">fort</w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6287w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6287pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6288" xml:id="Gl6288">
+        <w xml:id="Gl6288w1">O<c ana="#hiat">e</c>z</w>
+        <w xml:id="Gl6288w2">coment</w>
+        <w xml:id="Gl6288w3">il</w>
+        <w xml:id="Gl6288w4">est</w>
+        <w xml:id="Gl6288w5">assis</w>
+        <pc xml:id="Gl6288pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6289" xml:id="Gl6289">
+        <w xml:id="Gl6289w1">
+          <geogName ref="#MAG">
+            <name>Malonz</name>
+          </geogName>
+        </w>
+        <w xml:id="Gl6289w2">est</w>
+        <w xml:id="Gl6289w3" ana="#elis">l</w>
+        <w xml:id="Gl6289w4">isle</w>
+        <w xml:id="Gl6289w5">nomee</w>
+        <pc xml:id="Gl6289pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6290" xml:id="Gl6290">
+        <w xml:id="Gl6290w1" ana="#aggl-s">Si</w>
+        <w xml:id="Gl6290w2">tient</w>
+        <w xml:id="Gl6290w3" ana="#aggl-s">de</w>
+        <w xml:id="Gl6290w4">loing</w>
+        <w xml:id="Gl6290w5">une</w>
+        <w xml:id="Gl6290w6"><c ana="#lram-c">i</c>ornee</w>
+        <pc xml:id="Gl6290pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6291" xml:id="Gl6291">
+        <w xml:id="Gl6291w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6291w2">chastel</w>
+        <w xml:id="Gl6291w3">est</w>
+        <w xml:id="Gl6291w4">assis</w>
+        <w xml:id="Gl6291w5">en</w>
+        <w xml:id="Gl6291w6">mer</w>
+        <pc xml:id="Gl6291pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6292" xml:id="Gl6292">
+        <w xml:id="Gl6292w1">Onques</w>
+        <w xml:id="Gl6292w2">nuls</w>
+        <w xml:id="Gl6292w3">hom</w>
+        <w xml:id="Gl6292w4">ne</w>
+        <w xml:id="Gl6292w5"><c ana="#lram-c">u</c>it</w>
+        <w xml:id="Gl6292w6" ana="#aggl-s-uncert">son</w>
+        <w xml:id="Gl6292w7">per</w>
+        <pc xml:id="Gl6292pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6293" xml:id="Gl6293">
+        <w xml:id="Gl6293w1">En</w>
+        <w xml:id="Gl6293w2">une</w>
+        <w xml:id="Gl6293w3">roche</w>
+        <w xml:id="Gl6293w4">siet</w>
+        <w xml:id="Gl6293w5">en</w>
+        <w xml:id="Gl6293w6">aut</w>
+        <pc xml:id="Gl6293pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6294" xml:id="Gl6294">
+        <w xml:id="Gl6294w1">De</w>
+        <w xml:id="Gl6294w2">nulle</w>
+        <w xml:id="Gl6294w3">part</w>
+        <w xml:id="Gl6294w4">ne</w>
+        <w xml:id="Gl6294w5">crient</w>
+        <w xml:id="Gl6294w6">asaut</w>
+        <pc xml:id="Gl6294pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6295" xml:id="Gl6295">
+        <w xml:id="Gl6295w1" ana="#aggl-s">El</w>
+        <w xml:id="Gl6295w2">mont</w>
+        <w xml:id="Gl6295w3">nen</w>
+        <w xml:id="Gl6295w4">a</w>
+        <w xml:id="Gl6295w5">arbalestier</w>
+        <pc xml:id="Gl6295pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6296" xml:id="Gl6296">
+        <w xml:id="Gl6296w1">Tant</w>
+        <w xml:id="Gl6296w2">pe<c ana="#hiat">u</c>st</w>
+        <w xml:id="Gl6296w3">traire</w>
+        <w xml:id="Gl6296w4">ne</w>
+        <w xml:id="Gl6296w5">lancier</w>
+        <pc xml:id="Gl6296pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6297" xml:id="Gl6297">
+        <w xml:id="Gl6297w1">Que</w>
+        <w xml:id="Gl6297w2">del</w>
+        <w xml:id="Gl6297w3">pi<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6297w4">misist</w>
+        <w xml:id="Gl6297w5">un</w>
+        <w xml:id="Gl6297w6">bouchon</w>
+      </l>
+      <l n="6298" xml:id="Gl6298">
+        <w xml:id="Gl6298w1">Sus</w>
+        <w xml:id="Gl6298w2" ana="#aggl-c">en</w>
+        <w xml:id="Gl6298w3" ana="#aggl">la</w>
+        <w xml:id="Gl6298w4"><expan corresp="#ab-sus-pi">p<ex>r</ex>i</expan>miere</w>
+        <w xml:id="Gl6298w5">choison</w>
+        <pc xml:id="Gl6298pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6299" xml:id="Gl6299">
+        <w xml:id="Gl6299w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6299w2">mer</w>
+        <w xml:id="Gl6299w3">li</w>
+        <w xml:id="Gl6299w4">bat</w>
+        <w xml:id="Gl6299w5">qui</w>
+        <w xml:id="Gl6299w6">la</w>
+        <w xml:id="Gl6299w7">
+          <choice>
+            <sic>choisone</sic>
+            <corr>cloisone</corr>
+          </choice>
+        </w>
+        <pc xml:id="Gl6299pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6300" xml:id="Gl6300">
+        <w xml:id="Gl6300w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6300w2">roche</w>
+        <w xml:id="Gl6300w3">tient</w>
+        <w xml:id="Gl6300w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6300w5" ana="#degl">in<space type="#degl"/><c ana="#lram-c">u</c>irone</w>
+        <pc xml:id="Gl6300pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6301" xml:id="Gl6301">
+        <w xml:id="Gl6301w1">Plus</w>
+        <w xml:id="Gl6301w2">fort</w>
+        <w xml:id="Gl6301w3">nen</w>
+        <w xml:id="Gl6301w4">estuet</w>
+        <w xml:id="Gl6301w5" ana="#aggl-s"><c ana="#lram-c">i</c>a</w>
+        <w xml:id="Gl6301w6"><expan corresp="#ab-tild-q">q<ex>ue</ex></expan>rre</w>
+        <pc xml:id="Gl6301pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6302" xml:id="Gl6302">
+        <w xml:id="Gl6302w1">Forz</w>
+        <w xml:id="Gl6302w2">de</w>
+        <w xml:id="Gl6302w3" ana="#aggl-s">la</w>
+        <w xml:id="Gl6302w4">mer</w>
+        <w xml:id="Gl6302w5">siet</w>
+        <w xml:id="Gl6302w6" ana="#aggl-c">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6302w7" ana="#aggl">la</w>
+        <w xml:id="Gl6302w8">te<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+      </l>
+      <l n="6303" xml:id="Gl6303">
+        <w xml:id="Gl6303w1" ana="#aggl-s-uncert">En</w>
+        <w xml:id="Gl6303w2">autre</w>
+        <w xml:id="Gl6303w3">roiche</w>
+        <w xml:id="Gl6303w4" ana="#aggl-s">un</w>
+        <w xml:id="Gl6303w5">chastel</w>
+      </l>
+      <l n="6304" xml:id="Gl6304">
+        <w xml:id="Gl6304w1">Desus</w>
+        <w xml:id="Gl6304w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6304w3">fort</w>
+        <w xml:id="Gl6304w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6304w5">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6304w6">bel</w>
+        <pc xml:id="Gl6304pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6305" xml:id="Gl6305">
+        <w xml:id="Gl6305w1" ana="#aggl-s-uncert"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6305w2">por</w>
+        <w xml:id="Gl6305w3">einging</w>
+        <w xml:id="Gl6305w4">ne</w>
+        <w xml:id="Gl6305w5">sera</w>
+        <w xml:id="Gl6305w6">pris</w>
+        <pc xml:id="Gl6305pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6306" xml:id="Gl6306">
+        <w xml:id="Gl6306w1" ana="#elis">C</w>
+        <w xml:id="Gl6306w2">est</w>
+        <w xml:id="Gl6306w3" ana="#aggl-s">la</w>
+        <w xml:id="Gl6306w4">porte</w>
+        <w xml:id="Gl6306w5">de</w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6306w6">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6306pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6307" xml:id="Gl6307">
+        <w xml:id="Gl6307w1">Grant</w>
+        <w xml:id="Gl6307w2">tor</w>
+        <w xml:id="Gl6307w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6307w4">a</w>
+        <w xml:id="Gl6307w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6307w6">grant</w>
+        <w xml:id="Gl6307w7">maisons</w>
+        <pc xml:id="Gl6307pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6308" xml:id="Gl6308">
+        <w xml:id="Gl6308w1">Cil</w>
+        <w xml:id="Gl6308w2">portier</w>
+        <w xml:id="Gl6308w3">est</w>
+        <w xml:id="Gl6308w4">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6308w5">felons</w>
+        <pc xml:id="Gl6308pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6309" xml:id="Gl6309">
+        <w xml:id="Gl6309w1">Tant</w>
+        <w xml:id="Gl6309w2" ana="#aggl-c">a</w>
+        <w xml:id="Gl6309w3" ana="#aggl">de</w>
+        <w xml:id="Gl6309w4">rente</w>
+        <w xml:id="Gl6309w5">li</w>
+        <w xml:id="Gl6309w6">portiers</w>
+        <pc xml:id="Gl6309pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6310" xml:id="Gl6310">
+        <w xml:id="Gl6310w1">Tenir</w>
+        <w xml:id="Gl6310w2">en</w>
+        <w xml:id="Gl6310w3">puet</w>
+        <w xml:id="Gl6310w4" type="number-letter">cent</w>
+        <w xml:id="Gl6310w5">chi<c ana="#lram-c">u</c>aliers</w>
+        <pc xml:id="Gl6310pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6311" xml:id="Gl6311">
+        <w xml:id="Gl6311w1">Meis</w>
+        <w xml:id="Gl6311w2">il</w>
+        <w xml:id="Gl6311w3">ot</w>
+        <w xml:id="Gl6311w4">molt</w>
+        <w xml:id="Gl6311w5">felon</w>
+        <w xml:id="Gl6311w6">regart</w>
+      </l>
+      <l n="6312" xml:id="Gl6312">
+        <w xml:id="Gl6312w1">Et</w>
+        <w xml:id="Gl6312w2">si</w>
+        <w xml:id="Gl6312w3">est</w>
+        <w xml:id="Gl6312w4" ana="#aggl-c-uncert">il</w>
+        <w xml:id="Gl6312w5" ana="#aggl-uncert">de</w>
+        <w xml:id="Gl6312w6">puite</w>
+        <w xml:id="Gl6312w7">part</w>
+        <pc xml:id="Gl6312pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6313" xml:id="Gl6313">
+        <w xml:id="Gl6313w1">Ne</w>
+        <w xml:id="Gl6313w2"><c ana="#lram-c">i</c>a</w>
+        <w xml:id="Gl6313w3">prisonz</w>
+        <w xml:id="Gl6313w4">ni</w>
+        <w xml:id="Gl6313w5" ana="#aggl-s">i</w>
+        <w xml:id="Gl6313w6">entrera</w>
+      </l>
+      <l n="6314" xml:id="Gl6314">
+        <w xml:id="Gl6314w1" ana="#aggl-s-uncert">Se</w>
+        <w xml:id="Gl6314w2">il</w>
+        <w xml:id="Gl6314w3" type="number-letter">cent</w>
+        <w xml:id="Gl6314w4">besanz</w>
+        <w xml:id="Gl6314w5" ana="#elis">d</w>
+        <w xml:id="Gl6314w6">or</w>
+        <w xml:id="Gl6314w7">nen</w>
+        <w xml:id="Gl6314w8">a</w>
+        <pc xml:id="Gl6314pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6315" xml:id="Gl6315">
+        <w xml:id="Gl6315w1" ana="#elis">D</w>
+        <w xml:id="Gl6315w2">or</w>
+        <w xml:id="Gl6315w3" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6315w4" ana="#elis">d</w>
+        <w xml:id="Gl6315w5">argent</w>
+        <w xml:id="Gl6315w6" ana="#aggl-s">a</w>
+        <w xml:id="Gl6315w7">il</w>
+        <w xml:id="Gl6315w8">assez</w>
+      </l>
+      <cb xml:id="Gcb142" n="b"/>
+      <l n="6316" xml:id="Gl6316">
+        <w xml:id="Gl6316w1">Et</w>
+        <w xml:id="Gl6316w2">si</w>
+        <w xml:id="Gl6316w3">est</w>
+        <persName ref="#FIB">
+          <forename>
+            <w xml:id="Gl6316w4">filipoborz</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6316w5">nom<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6316pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6317" xml:id="Gl6317">
+        <w xml:id="Gl6317w1">Entre</w>
+        <w xml:id="Gl6317w2" type="number-letter">deus</w>
+        <w xml:id="Gl6317w3">chastiaus</w>
+        <w xml:id="Gl6317w4" ana="#aggl-c">a</w>
+        <w xml:id="Gl6317w5" ana="#aggl">un</w>
+        <w xml:id="Gl6317w6">pont</w>
+      </l>
+      <l n="6318" xml:id="Gl6318">
+        <w xml:id="Gl6318w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6318w2">o<expan corresp="#ab-tild-nas"><ex>n</ex></expan></w>
+        <w xml:id="Gl6318w3"><c ana="#lram-c">u</c>ait</w>
+        <w xml:id="Gl6318w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6318w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6318w6">amont</w>
+        <pc xml:id="Gl6318pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6319" xml:id="Gl6319">
+        <w xml:id="Gl6319w1" ana="#degl">De<space type="#degl"/>soz</w>
+        <w xml:id="Gl6319w2">li</w>
+        <w xml:id="Gl6319w3">pont</w>
+        <w xml:id="Gl6319w4">est</w>
+        <w xml:id="Gl6319w5">grant</w>
+        <w xml:id="Gl6319w6" ana="#elis">l</w>
+        <w xml:id="Gl6319w7">onde</w>
+      </l>
+      <l n="6320" xml:id="Gl6320">
+        <w xml:id="Gl6320w1">Et</w>
+        <w xml:id="Gl6320w2" ana="#aggl-s">la</w>
+        <w xml:id="Gl6320w3">mer</w>
+        <w xml:id="Gl6320w4">aute</w>
+        <w xml:id="Gl6320w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6320w6">parfonde</w>
+        <pc xml:id="Gl6320pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6321" xml:id="Gl6321">
+        <w xml:id="Gl6321w1">Li</w>
+        <w xml:id="Gl6321w2">ponz</w>
+        <w xml:id="Gl6321w3" ana="#elis">n</w>
+        <w xml:id="Gl6321w4">est</w>
+        <w xml:id="Gl6321w5">mie</w>
+        <w xml:id="Gl6321w6"><c ana="#lram-c">u</c>out<c ana="#e-ton">e</c>z</w>
+      </l>
+      <l n="6322" xml:id="Gl6322">
+        <w xml:id="Gl6322w1">Ainz</w>
+        <w xml:id="Gl6322w2">est</w>
+        <w xml:id="Gl6322w3">de</w>
+        <w xml:id="Gl6322w4">cipr<c ana="#e-ton">e</c>s</w>
+        <w xml:id="Gl6322w5">tro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6322pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6323" xml:id="Gl6323">
+        <w xml:id="Gl6323w1">Qui</w>
+        <w xml:id="Gl6323w2">li</w>
+        <w xml:id="Gl6323w3">chastel</w>
+        <w xml:id="Gl6323w4">del</w>
+        <w xml:id="Gl6323w5">portier</w>
+      </l>
+      <l n="6324" xml:id="Gl6324">
+        <w xml:id="Gl6324w1">Poroit</w>
+        <w xml:id="Gl6324w2">prendre</w>
+        <w xml:id="Gl6324w3">ou</w>
+        <w xml:id="Gl6324w4">engignier</w>
+        <pc xml:id="Gl6324pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6325" xml:id="Gl6325">
+        <w xml:id="Gl6325w1">Puis</w>
+        <w xml:id="Gl6325w2">que</w>
+        <w xml:id="Gl6325w3">cist</w>
+        <w xml:id="Gl6325w4">chastieus</w>
+        <w xml:id="Gl6325w5">seroit</w>
+        <w xml:id="Gl6325w6">pris</w>
+      </l>
+      <l n="6326" xml:id="Gl6326">
+        <w xml:id="Gl6326w1">Nen</w>
+        <w xml:id="Gl6326w2">seroit</w>
+        <w xml:id="Gl6326w3">mein</w>
+        <w xml:id="Gl6326w4">fort</w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6326w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6327" xml:id="Gl6327">
+        <w xml:id="Gl6327w1">Et</w>
+        <w xml:id="Gl6327w2"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6327w3"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6327w4"><c ana="#lram-c">u</c>uel</w>
+        <w xml:id="Gl6327w5">dire</w>
+        <w xml:id="Gl6327w6">parquoi</w>
+        <pc xml:id="Gl6327pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6328" xml:id="Gl6328">
+        <w xml:id="Gl6328w1">Quar</w>
+        <w xml:id="Gl6328w2" ana="#aggl-s">au</w>
+        <w xml:id="Gl6328w3">pon</w>
+        <w xml:id="Gl6328w4">a</w>
+        <w xml:id="Gl6328w5">un</w>
+        <w xml:id="Gl6328w6">gra<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6328w7">desroi</w>
+        <pc xml:id="Gl6328pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6329" xml:id="Gl6329">
+        <w xml:id="Gl6329w1">Par</w>
+        <w xml:id="Gl6329w2">tel</w>
+        <w xml:id="Gl6329w3">enging</w>
+        <w xml:id="Gl6329w4">est</w>
+        <w xml:id="Gl6329w5">fet</w>
+        <w xml:id="Gl6329w6" ana="#aggl-s">li</w>
+        <w xml:id="Gl6329w7">pont</w>
+      </l>
+      <l n="6330" xml:id="Gl6330">
+        <w xml:id="Gl6330w1">Quar</w>
+        <pc xml:id="Gl6330pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6330w2">se</w>
+        <w xml:id="Gl6330w3">il</w>
+        <w xml:id="Gl6330w4"><c ana="#lram-c">u</c>enoit</w>
+        <w xml:id="Gl6330w5">tot</w>
+        <w xml:id="Gl6330w6">li</w>
+        <w xml:id="Gl6330w7">mont</w>
+        <pc xml:id="Gl6330pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6331" xml:id="Gl6331">
+        <w xml:id="Gl6331w1">Passer</w>
+        <w xml:id="Gl6331w2" ana="#aggl-s">le</w>
+        <w xml:id="Gl6331w3">con<c ana="#lram-c">u</c>eroit</w>
+        <w xml:id="Gl6331w4" ana="#aggl-s">un</w>
+        <w xml:id="Gl6331w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6331w6">un</w>
+        <pc xml:id="Gl6331pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6332" xml:id="Gl6332">
+        <w xml:id="Gl6332w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6332w2">punt</w>
+        <w xml:id="Gl6332w3" ana="#elis">s</w>
+        <w xml:id="Gl6332w4" ana="#aggl-s">en</w>
+        <w xml:id="Gl6332w5"><c ana="#lram-c">u</c>ait</w>
+        <w xml:id="Gl6332w6">apr<c ana="#e-ton">e</c>s</w>
+        <w xml:id="Gl6332w7">chascun</w>
+      </l>
+      <l n="6333" xml:id="Gl6333">
+        <w xml:id="Gl6333w1">Et</w>
+        <w xml:id="Gl6333w2">tuit</w>
+        <w xml:id="Gl6333w3">cil</w>
+        <w xml:id="Gl6333w4">que</w>
+        <w xml:id="Gl6333w5">el</w>
+        <w xml:id="Gl6333w6">
+          <choice>
+            <sic>sicle</sic>
+            <corr>siecle</corr>
+          </choice>
+        </w>
+        <w xml:id="Gl6333w7">sont</w>
+      </l>
+      <l n="6334" xml:id="Gl6334">
+        <w xml:id="Gl6334w1">Ne</w>
+        <w xml:id="Gl6334w2">poroient</w>
+        <w xml:id="Gl6334w3">tenir</w>
+        <w xml:id="Gl6334w4">le</w>
+        <w xml:id="Gl6334w5">pont</w>
+      </l>
+      <l n="6335" xml:id="Gl6335">
+        <w xml:id="Gl6335w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6335w2">il</w>
+        <w xml:id="Gl6335w3">nen</w>
+        <w xml:id="Gl6335w4">aut</w>
+        <w xml:id="Gl6335w5">apr<c ana="#e-ton">e</c>s</w>
+        <w xml:id="Gl6335w6">celui</w>
+      </l>
+      <l n="6336" xml:id="Gl6336">
+        <w xml:id="Gl6336w1">Qui</w>
+        <w xml:id="Gl6336w2">est</w>
+        <w xml:id="Gl6336w3">pass<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6336pc1" resp="#ed">.</pc>
+        <pc xml:id="Gl6336pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6336w4">mais</w>
+        <w xml:id="Gl6336w5" ana="#aggl-s">a</w>
+        <w xml:id="Gl6336w6">enui</w>
+      </l>
+      <l n="6337" xml:id="Gl6337">
+        <w xml:id="Gl6337w1">Entre</w>
+        <w xml:id="Gl6337w2">la</w>
+        <w xml:id="Gl6337w3">porte</w>
+        <w xml:id="Gl6337w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6337w5" ana="#aggl-s">li</w>
+        <w xml:id="Gl6337w6">pont</w>
+      </l>
+      <l n="6338" xml:id="Gl6338">
+        <w xml:id="Gl6338w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6338w2">il</w>
+        <w xml:id="Gl6338w3" ana="#elis">n</w>
+        <w xml:id="Gl6338w4">en</w>
+        <w xml:id="Gl6338w5">a</w>
+        <w xml:id="Gl6338w6" ana="#aggl-s">en</w>
+        <w xml:id="Gl6338w7">tot</w>
+        <w xml:id="Gl6338w8" ana="#aggl-s">li</w>
+        <w xml:id="Gl6338w9">mont</w>
+        <pc xml:id="Gl6338pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6339" xml:id="Gl6339">
+        <w xml:id="Gl6339w1">Hom</w>
+        <w xml:id="Gl6339w2">estrainges</w>
+        <w xml:id="Gl6339w3">ne</w>
+        <w xml:id="Gl6339w4">puet</w>
+        <w xml:id="Gl6339w5">to<expan corresp="#ab-tild-ang-hor"><ex>r</ex></expan>ner</w>
+      </l>
+      <l n="6340" xml:id="Gl6340">
+        <w xml:id="Gl6340w1">Et</w>
+        <w xml:id="Gl6340w2">se</w>
+        <w xml:id="Gl6340w3">il</w>
+        <w xml:id="Gl6340w4"><c ana="#lram-c">u</c>ealt</w>
+        <w xml:id="Gl6340w5">a<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6340w6">aler</w>
+      </l>
+      <l n="6341" xml:id="Gl6341">
+        <w xml:id="Gl6341w1">Soz</w>
+        <w xml:id="Gl6341w2">la</w>
+        <w xml:id="Gl6341w3">porte</w>
+        <w xml:id="Gl6341w4">sera</w>
+        <w xml:id="Gl6341w5">oucis</w>
+        <pc xml:id="Gl6341pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6342" xml:id="Gl6342">
+        <w xml:id="Gl6342w1">Se</w>
+        <w xml:id="Gl6342w2">il</w>
+        <w xml:id="Gl6342w3"><c ana="#lram-c">u</c>enra</w>
+        <w xml:id="Gl6342w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6342w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6343" xml:id="Gl6343">
+        <w xml:id="Gl6343w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6343w2">il</w>
+        <w xml:id="Gl6343w3">fust</w>
+        <w xml:id="Gl6343w4" ana="#elis">d</w>
+        <w xml:id="Gl6343w5">iluec</w>
+        <w xml:id="Gl6343w6">eschanp<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6343pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6344" xml:id="Gl6344">
+        <w xml:id="Gl6344w1">Puis</w>
+        <w xml:id="Gl6344w2">sera</w>
+        <w xml:id="Gl6344w3">touz</w>
+        <w xml:id="Gl6344w4">de<c ana="#lram-c">u</c>or<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6344pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6345" xml:id="Gl6345">
+        <w xml:id="Gl6345w1">Ne</w>
+        <w xml:id="Gl6345w2">nus</w>
+        <w xml:id="Gl6345w3">ni</w>
+        <w xml:id="Gl6345w4">puet</w>
+        <w xml:id="Gl6345w5">passer</w>
+        <w xml:id="Gl6345w6">le</w>
+        <w xml:id="Gl6345w7">pont</w>
+      </l>
+      <l n="6346" xml:id="Gl6346">
+        <w xml:id="Gl6346w1">Forz</w>
+        <w xml:id="Gl6346w2">cil</w>
+        <w xml:id="Gl6346w3">qui</w>
+        <w xml:id="Gl6346w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6346w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6346w6">sont</w>
+        <pc xml:id="Gl6346pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6347" xml:id="Gl6347">
+        <w xml:id="Gl6347w1">Sire</w>
+        <pc xml:id="Gl6347pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6347w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6347w3">estudiosement</w>
+      </l>
+      <l n="6348" xml:id="Gl6348">
+        <w xml:id="Gl6348w1">Fist</w>
+        <w xml:id="Gl6348w2" ana="#elis">l</w>
+        <w xml:id="Gl6348w3">amiraus</w>
+        <w xml:id="Gl6348w4">sotilment</w>
+      </l>
+      <l n="6349" xml:id="Gl6349">
+        <w xml:id="Gl6349w1">Da<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6349w2">une</w>
+        <w xml:id="Gl6349w3">roche</w>
+        <w xml:id="Gl6349w4">na<c ana="#lram-c">u</c>ie</w>
+      </l>
+      <l n="6350" xml:id="Gl6350">
+        <w xml:id="Gl6350w1"><c ana="#lram-v">V</c>ne</w>
+        <w xml:id="Gl6350w2">porte</w>
+        <pc xml:id="Gl6350pc1" resp="#ed">:</pc>
+        <w xml:id="Gl6350w3">nus</w>
+        <w xml:id="Gl6350w4">hom</w>
+        <w xml:id="Gl6350w5">que</w>
+        <w xml:id="Gl6350w6"><c ana="#lram-c">u</c>ie</w>
+        <pc xml:id="Gl6350pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6351" xml:id="Gl6351">
+        <w xml:id="Gl6351w1" ana="#aggl-s">Por</w>
+        <w xml:id="Gl6351w2">ce</w>
+        <w xml:id="Gl6351w3" ana="#elis">qu</w>
+        <w xml:id="Gl6351w4">il</w>
+        <w xml:id="Gl6351w5">estrange</w>
+        <w xml:id="Gl6351w6">soit</w>
+        <pc xml:id="Gl6351pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6352" xml:id="Gl6352">
+        <w xml:id="Gl6352w1">Sanz</w>
+        <w xml:id="Gl6352w2">morir</w>
+        <w xml:id="Gl6352w3" ana="#elis">n</w>
+        <w xml:id="Gl6352w4">eschanperoit</w>
+        <pc xml:id="Gl6352pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg336">
+      <l n="6353" xml:id="Gl6353">
+        <w xml:id="Gl6353w1"><hi rend="init-flour">L</hi>A</w>
+        <w xml:id="Gl6353w2">porte</w>
+        <w xml:id="Gl6353w3">est</w>
+        <w xml:id="Gl6353w4">pesant</w>
+        <w xml:id="Gl6353w5" ana="#aggl-s-uncert">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6353w6">lee</w>
+        <pc xml:id="Gl6353pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6354" xml:id="Gl6354">
+        <w xml:id="Gl6354w1">Gent</w>
+        <w xml:id="Gl6354w2" ana="#aggl-s">fu</w>
+        <w xml:id="Gl6354w3" ana="#elis">l</w>
+        <w xml:id="Gl6354w4">o<c ana="#lram-c">u</c>re</w>
+        <w xml:id="Gl6354w5">tresgitee</w>
+        <pc xml:id="Gl6354pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6355" xml:id="Gl6355">
+        <w xml:id="Gl6355w1">De</w>
+        <w xml:id="Gl6355w2">co<c ana="#lram-c">u</c>re</w>
+        <w xml:id="Gl6355w3">fu</w>
+        <w xml:id="Gl6355w4" ana="#elis">l</w>
+        <w xml:id="Gl6355w5">o<c ana="#lram-c">u</c>re</w>
+        <w xml:id="Gl6355w6">masice</w>
+        <pc xml:id="Gl6355pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6356" xml:id="Gl6356">
+        <w xml:id="Gl6356w1">Parmi</w>
+        <w xml:id="Gl6356w2" ana="#aggl-s">la</w>
+        <w xml:id="Gl6356w3">roche</w>
+        <w xml:id="Gl6356w4">cole<c ana="#hiat">i</c>ce</w>
+        <pc xml:id="Gl6356pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6357" xml:id="Gl6357">
+        <w xml:id="Gl6357w1">Par</w>
+        <w xml:id="Gl6357w2">enging</w>
+        <w xml:id="Gl6357w3">mo<expan corresp="#ab-tild-nas"><ex>n</ex></expan>te</w>
+        <pc xml:id="Gl6357pc1" resp="#ed">,</pc>
+        <pc xml:id="Gl6357pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6357w4" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6357w5">qua<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6357w6">quiet</w>
+      </l>
+      <l n="6358" xml:id="Gl6358">
+        <w xml:id="Gl6358w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6358w2">roche</w>
+        <w xml:id="Gl6358w3">fiet</w>
+        <w xml:id="Gl6358w4">trenbler</w>
+        <w xml:id="Gl6358w5" ana="#aggl-s">o<c ana="#diacr-desamb">u</c></w>
+        <w xml:id="Gl6358w6">quiet</w>
+        <pc xml:id="Gl6358pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6359" xml:id="Gl6359">
+        <w xml:id="Gl6359w1">Maint</w>
+        <w xml:id="Gl6359w2">home</w>
+        <w xml:id="Gl6359w3">estrange</w>
+        <w xml:id="Gl6359w4">a</w>
+        <w xml:id="Gl6359w5">mort</w>
+        <pc xml:id="Gl6359pc1" resp="#ed">.</pc>
+      </l>
+      <pb xml:id="Gpb77" n="67v"/>
+      <cb xml:id="Gcb143" n="a"/>
+      <l n="6360" xml:id="Gl6360">
+        <w xml:id="Gl6360w1">El</w>
+        <w xml:id="Gl6360w2">mont</w>
+        <w xml:id="Gl6360w3" ana="#elis">n</w>
+        <w xml:id="Gl6360w4">a</w>
+        <w xml:id="Gl6360w5">heume</w>
+        <w xml:id="Gl6360w6" ana="#aggl-s">si</w>
+        <w xml:id="Gl6360w7">fort</w>
+      </l>
+      <l n="6361" xml:id="Gl6361">
+        <w xml:id="Gl6361w1">Quant</w>
+        <w xml:id="Gl6361w2">chiet</w>
+        <pc xml:id="Gl6361pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6361w3" ana="#elis">s</w>
+        <w xml:id="Gl6361w4">il</w>
+        <w xml:id="Gl6361w5">estoit</w>
+        <w xml:id="Gl6361w6">desoz</w>
+        <pc xml:id="Gl6361pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6362" xml:id="Gl6362">
+        <w xml:id="Gl6362w1">Qui</w>
+        <w xml:id="Gl6362w2">tuz</w>
+        <w xml:id="Gl6362w3" ana="#aggl-s">ne</w>
+        <w xml:id="Gl6362w4">fust</w>
+        <w xml:id="Gl6362w5">bris<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6362w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6362w7">roz</w>
+        <pc xml:id="Gl6362pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6363" xml:id="Gl6363">
+        <w xml:id="Gl6363w1">Outre</w>
+        <w xml:id="Gl6363w2" ana="#aggl-s">la</w>
+        <w xml:id="Gl6363w3">porte</w>
+        <w xml:id="Gl6363w4" ana="#aggl-s">en</w>
+        <w xml:id="Gl6363w5" ana="#elis">l</w>
+        <w xml:id="Gl6363w6">estaige</w>
+      </l>
+      <l n="6364" xml:id="Gl6364">
+        <w xml:id="Gl6364w1">Sunt</w>
+        <w xml:id="Gl6364w2" type="number-letter">dui</w>
+        <w xml:id="Gl6364w3">lion</w>
+        <w xml:id="Gl6364w4">fier</w>
+        <w xml:id="Gl6364w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6364w6">sau<c ana="#lram-c">u</c>aige</w>
+        <pc xml:id="Gl6364pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6365" xml:id="Gl6365">
+        <w xml:id="Gl6365w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6365w2">sunt</w>
+        <w xml:id="Gl6365w3">grant</w>
+        <w xml:id="Gl6365w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6365w5">fort</w>
+        <w xml:id="Gl6365w6">li</w>
+        <w xml:id="Gl6365w7">mauf<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6365pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6366" xml:id="Gl6366">
+        <w xml:id="Gl6366w1">Anbedui</w>
+        <w xml:id="Gl6366w2">sunt</w>
+        <w xml:id="Gl6366w3">enchaen<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6366pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6367" xml:id="Gl6367">
+        <w xml:id="Gl6367w1" type="number-letter">Dous</w>
+        <w xml:id="Gl6367w2">chaenes</w>
+        <w xml:id="Gl6367w3">chascuns</w>
+        <w xml:id="Gl6367w4" ana="#elis">d</w>
+        <w xml:id="Gl6367w5">els</w>
+        <w xml:id="Gl6367w6">porte</w>
+        <pc xml:id="Gl6367pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6368" xml:id="Gl6368">
+        <w xml:id="Gl6368w1" ana="#aggl-s">Le</w>
+        <w xml:id="Gl6368w2" type="number-letter">deus</w>
+        <w xml:id="Gl6368w3">ferment</w>
+        <w xml:id="Gl6368w4">sus</w>
+        <w xml:id="Gl6368w5" ana="#aggl-c">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6368w6" ana="#aggl">la</w>
+        <w xml:id="Gl6368w7">porte</w>
+        <pc xml:id="Gl6368pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6369" xml:id="Gl6369">
+        <w xml:id="Gl6369w1">Le</w>
+        <w xml:id="Gl6369w2" type="number-letter">deus</w>
+        <w xml:id="Gl6369w3" ana="#degl">de<space type="#degl"/>rier</w>
+        <w xml:id="Gl6369w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6369w5">un</w>
+        <w xml:id="Gl6369w6">pilier</w>
+        <pc xml:id="Gl6369pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6370" xml:id="Gl6370">
+        <w xml:id="Gl6370w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6370w2">il</w>
+        <w xml:id="Gl6370w3">ne</w>
+        <w xml:id="Gl6370w4">puissent</w>
+        <w xml:id="Gl6370w5">en</w>
+        <w xml:id="Gl6370w6">aut</w>
+        <w xml:id="Gl6370w7">aller</w>
+      </l>
+      <l n="6371" xml:id="Gl6371">
+        <w xml:id="Gl6371w1" type="number-letter">Dous</w>
+        <w xml:id="Gl6371w2">toises</w>
+        <w xml:id="Gl6371w3" ana="#aggl-s">de</w>
+        <w xml:id="Gl6371w4">la</w>
+        <w xml:id="Gl6371w5">porte</w>
+        <w xml:id="Gl6371w6">pres</w>
+        <pc xml:id="Gl6371pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6372" xml:id="Gl6372">
+        <w xml:id="Gl6372w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6372w2">lions</w>
+        <w xml:id="Gl6372w3">sont</w>
+        <w xml:id="Gl6372w4">maus</w>
+        <w xml:id="Gl6372w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6372w6">engr<c ana="#e-ton">e</c>s</w>
+        <pc xml:id="Gl6372pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6373" xml:id="Gl6373">
+        <w xml:id="Gl6373w1">Quant</w>
+        <w xml:id="Gl6373w2">il</w>
+        <w xml:id="Gl6373w3">se</w>
+        <w xml:id="Gl6373w4"><c ana="#lram-c">u</c>uelent</w>
+        <w xml:id="Gl6373w5">gisir</w>
+        <w xml:id="Gl6373w6"><c ana="#lram-c">i</c>us</w>
+      </l>
+      <l n="6374" xml:id="Gl6374">
+        <w xml:id="Gl6374w1">Les</w>
+        <w xml:id="Gl6374w2">chaenes</w>
+        <w xml:id="Gl6374w3">enle<c ana="#lram-c">u</c>ent</w>
+        <w xml:id="Gl6374w4">sus</w>
+        <pc xml:id="Gl6374pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6375" xml:id="Gl6375">
+        <w xml:id="Gl6375w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6375w2">porte</w>
+        <w xml:id="Gl6375w3" ana="#aggl-s">si</w>
+        <w xml:id="Gl6375w4">est</w>
+        <w xml:id="Gl6375w5">engigni<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6376" xml:id="Gl6376">
+        <w xml:id="Gl6376w1">Et</w>
+        <w xml:id="Gl6376w2">puis</w>
+        <w xml:id="Gl6376w3">est</w>
+        <w xml:id="Gl6376w4">si</w>
+        <w xml:id="Gl6376w5">apareilli<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6376pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6377" xml:id="Gl6377">
+        <w xml:id="Gl6377w1">Quant</w>
+        <w xml:id="Gl6377w2">il</w>
+        <w xml:id="Gl6377w3" ana="#aggl-s">se</w>
+        <w xml:id="Gl6377w4">sont</w>
+        <w xml:id="Gl6377w5">le<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6377w6">en</w>
+        <w xml:id="Gl6377w7">pi<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6377pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6378" xml:id="Gl6378">
+        <w xml:id="Gl6378w1" ana="#aggl-s">Se</w>
+        <w xml:id="Gl6378w2">neguns</w>
+        <w xml:id="Gl6378w3">hom</w>
+        <w xml:id="Gl6378w4">lout</w>
+        <w xml:id="Gl6378w5">fez</w>
+        <w xml:id="Gl6378w6">iri<c ana="#e-ton">e</c>z</w>
+      </l>
+      <l n="6379" xml:id="Gl6379">
+        <w xml:id="Gl6379w1">Et</w>
+        <w xml:id="Gl6379w2">il</w>
+        <w xml:id="Gl6379w3" ana="#aggl-s">ne</w>
+        <w xml:id="Gl6379w4">soit</w>
+        <w xml:id="Gl6379w5">mort</w>
+        <w xml:id="Gl6379w6" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6379w7" ana="#elis">l</w>
+        <w xml:id="Gl6379w8">entree</w>
+        <pc xml:id="Gl6379pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6380" xml:id="Gl6380">
+        <w xml:id="Gl6380w1">Ne</w>
+        <w xml:id="Gl6380w2">puet</w>
+        <w xml:id="Gl6380w3">a<c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6380w4">longe</w>
+        <w xml:id="Gl6380w5">duree</w>
+      </l>
+      <l n="6381" xml:id="Gl6381">
+        <w xml:id="Gl6381w1">Que</w>
+        <w xml:id="Gl6381w2">puis</w>
+        <w xml:id="Gl6381w3">que</w>
+        <w xml:id="Gl6381w4">la</w>
+        <w xml:id="Gl6381w5">porte</w>
+        <w xml:id="Gl6381w6">iert</w>
+        <w xml:id="Gl6381w7">close</w>
+      </l>
+      <l n="6382" xml:id="Gl6382">
+        <w xml:id="Gl6382w1">Ni</w>
+        <w xml:id="Gl6382w2">puet</w>
+        <w xml:id="Gl6382w3">o<c ana="#lram-c">u</c>rir</w>
+        <w xml:id="Gl6382w4">par</w>
+        <w xml:id="Gl6382w5">nule</w>
+        <w xml:id="Gl6382w6">chose</w>
+      </l>
+      <l n="6383" xml:id="Gl6383">
+        <w xml:id="Gl6383w1">Sainz</w>
+        <w xml:id="Gl6383w2">li</w>
+        <w xml:id="Gl6383w3">lions</w>
+        <pc xml:id="Gl6383pc1" resp="#ed">.</pc>
+        <pc xml:id="Gl6383pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6383w4">nuls</w>
+        <w xml:id="Gl6383w5">est</w>
+        <w xml:id="Gl6383w6">si</w>
+        <w xml:id="Gl6383w7">os</w>
+        <pc xml:id="Gl6383pc3" resp="#ed">,</pc>
+      </l>
+      <l n="6384" xml:id="Gl6384">
+        <w xml:id="Gl6384w1">Que</w>
+        <w xml:id="Gl6384w2" ana="#aggl-s">sera</w>
+        <w xml:id="Gl6384w3">lai</w>
+        <w xml:id="Gl6384w4">dedenz</w>
+        <w xml:id="Gl6384w5">enclos</w>
+        <pc xml:id="Gl6384pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6385" xml:id="Gl6385">
+        <w xml:id="Gl6385w1">Que</w>
+        <w xml:id="Gl6385w2">il</w>
+        <w xml:id="Gl6385w3">ousoit</w>
+        <w xml:id="Gl6385w4">da<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6385w5">aler</w>
+        <pc xml:id="Gl6385pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6386" xml:id="Gl6386">
+        <w xml:id="Gl6386w1">Se</w>
+        <w xml:id="Gl6386w2">il</w>
+        <w xml:id="Gl6386w3" ana="#aggl-s">ne</w>
+        <w xml:id="Gl6386w4" ana="#elis">s</w>
+        <w xml:id="Gl6386w5">en</w>
+        <w xml:id="Gl6386w6">puet</w>
+        <w xml:id="Gl6386w7">retorner</w>
+        <pc xml:id="Gl6386pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6387" xml:id="Gl6387">
+        <w xml:id="Gl6387w1">Quar</w>
+        <w xml:id="Gl6387w2">se</w>
+        <w xml:id="Gl6387w3">il</w>
+        <w xml:id="Gl6387w4"><c ana="#lram-c">u</c>ealt</w>
+        <w xml:id="Gl6387w5">monter</w>
+        <w xml:id="Gl6387w6">amont</w>
+      </l>
+      <l n="6388" xml:id="Gl6388">
+        <w xml:id="Gl6388w1">Par</w>
+        <w xml:id="Gl6388w2">les</w>
+        <w xml:id="Gl6388w3" type="number-letter">dous</w>
+        <w xml:id="Gl6388w4">lions</w>
+        <w xml:id="Gl6388w5">qui</w>
+        <w xml:id="Gl6388w6" ana="#aggl-s">i</w>
+        <w xml:id="Gl6388w7">sont</w>
+      </l>
+      <l n="6389" xml:id="Gl6389">
+        <w xml:id="Gl6389w1" ana="#aggl-s-uncert">Li</w>
+        <w xml:id="Gl6389w2">con<c ana="#lram-c">u</c>ient</w>
+        <w xml:id="Gl6389w3">aler</w>
+        <w xml:id="Gl6389w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6389w5"><c ana="#lram-c">u</c>enir</w>
+        <pc xml:id="Gl6389pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6390" xml:id="Gl6390">
+        <w xml:id="Gl6390w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6390w2">passaige</w>
+        <w xml:id="Gl6390w3">li</w>
+        <w xml:id="Gl6390w4">estuet</w>
+        <w xml:id="Gl6390w5">morir</w>
+        <pc xml:id="Gl6390pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6391" xml:id="Gl6391">
+        <w xml:id="Gl6391w1" ana="#aggl-s"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6391w2">tant</w>
+        <w xml:id="Gl6391w3" ana="#aggl-s">ni</w>
+        <w xml:id="Gl6391w4">sera</w>
+        <w xml:id="Gl6391w5">grant</w>
+        <w xml:id="Gl6391w6">ni</w>
+        <w xml:id="Gl6391w7">gros</w>
+      </l>
+      <l n="6392" xml:id="Gl6392">
+        <w xml:id="Gl6392w1" ana="#elis">Qu</w>
+        <w xml:id="Gl6392w2">il</w>
+        <w xml:id="Gl6392w3" ana="#elis">
+          <choice>
+            <sic>l</sic>
+            <corr>n</corr>
+          </choice>
+        </w>
+        <w xml:id="Gl6392w4">en</w>
+        <w xml:id="Gl6392w5">remaigne</w>
+        <w xml:id="Gl6392w6">char</w>
+        <w xml:id="Gl6392w7">ni</w>
+        <w xml:id="Gl6392w8">os</w>
+        <pc xml:id="Gl6392pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6393" xml:id="Gl6393">
+        <w xml:id="Gl6393w1">Tuit</w>
+        <w xml:id="Gl6393w2">le</w>
+        <w xml:id="Gl6393w3">man<c ana="#lram-c">i</c>ent</w>
+        <w xml:id="Gl6393w4">le</w>
+        <w xml:id="Gl6393w5">lion</w>
+        <pc xml:id="Gl6393pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6394" xml:id="Gl6394">
+        <w xml:id="Gl6394w1">Cil</w>
+        <w xml:id="Gl6394w2">gardent</w>
+        <w xml:id="Gl6394w3">li</w>
+        <w xml:id="Gl6394w4">uis</w>
+        <w xml:id="Gl6394w5" ana="#aggl-c">de</w>
+        <w xml:id="Gl6394w6" ana="#aggl">la</w>
+        <w xml:id="Gl6394w7">prison</w>
+        <pc xml:id="Gl6394pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6395" xml:id="Gl6395">
+        <w xml:id="Gl6395w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6395w2">roiche</w>
+        <w xml:id="Gl6395w3">est</w>
+        <w xml:id="Gl6395w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6395w5">grant</w>
+        <w xml:id="Gl6395w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6395w7">lee</w>
+        <pc xml:id="Gl6395pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6396" xml:id="Gl6396">
+        <w xml:id="Gl6396w1" ana="#aggl-c-uncert">Soz</w>
+        <w xml:id="Gl6396w2" ana="#aggl-uncert">li</w>
+        <w xml:id="Gl6396w3">lion</w>
+        <w xml:id="Gl6396w4">parfont</w>
+        <w xml:id="Gl6396w5">cha<c ana="#lram-c">u</c>ee</w>
+        <pc xml:id="Gl6396pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6397" xml:id="Gl6397">
+        <w xml:id="Gl6397w1">A<c ana="#lram-c">u</c>al</w>
+        <w xml:id="Gl6397w2">parfont</w>
+        <pc xml:id="Gl6397pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6397w3">soz</w>
+        <w xml:id="Gl6397w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6397w5">lions</w>
+        <pc xml:id="Gl6397pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6398" xml:id="Gl6398">
+        <w xml:id="Gl6398w1">A</w>
+        <w xml:id="Gl6398w2">grant</w>
+        <w xml:id="Gl6398w3">cha<expan corresp="#ab-tild-nas"><ex>n</ex></expan>bre</w>
+        <w xml:id="Gl6398w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6398w5">grant</w>
+        <w xml:id="Gl6398w6">meisons</w>
+        <pc xml:id="Gl6398pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6399" xml:id="Gl6399">
+        <w xml:id="Gl6399w1">Onques</w>
+        <w xml:id="Gl6399w2">de</w>
+        <w xml:id="Gl6399w3"><c ana="#lram-c">i</c>or</w>
+        <w xml:id="Gl6399w4" ana="#elis">n</w>
+        <w xml:id="Gl6399w5">i</w>
+        <w xml:id="Gl6399w6">a</w>
+        <w xml:id="Gl6399w7">clart<c ana="#e-ton">e</c>s</w>
+        <pc xml:id="Gl6399pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6400" xml:id="Gl6400">
+        <w xml:id="Gl6400w1">Ce</w>
+        <w xml:id="Gl6400w2">dient</w>
+        <w xml:id="Gl6400w3">cil</w>
+        <w xml:id="Gl6400w4">por</w>
+        <w xml:id="Gl6400w5"><c ana="#lram-c">u</c>erit<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6401" xml:id="Gl6401">
+        <w xml:id="Gl6401w1">Qui</w>
+        <w xml:id="Gl6401w2">del</w>
+        <w xml:id="Gl6401w3">chastel</w>
+        <w xml:id="Gl6401w4">se<c ana="#lram-c">u</c>ent</w>
+        <w xml:id="Gl6401w5">bie<expan corresp="#ab-tild-nas"><ex>n</ex></expan></w>
+        <w xml:id="Gl6401w6" ana="#elis">l</w>
+        <w xml:id="Gl6401w7">estre</w>
+        <pc xml:id="Gl6401pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6402" xml:id="Gl6402">
+        <w xml:id="Gl6402w1">Que</w>
+        <w xml:id="Gl6402w2"><c ana="#lram-c">i</c>a</w>
+        <w xml:id="Gl6402w3">par</w>
+        <w xml:id="Gl6402w4">huis</w>
+        <w xml:id="Gl6402w5">ne</w>
+        <w xml:id="Gl6402w6">par</w>
+        <w xml:id="Gl6402w7">fenestre</w>
+        <pc xml:id="Gl6402pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6403" xml:id="Gl6403">
+        <w xml:id="Gl6403w1"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6403w2" ana="#aggl-s">de</w>
+        <w xml:id="Gl6403w3">nuiz</w>
+        <w xml:id="Gl6403w4">ne</w>
+        <w xml:id="Gl6403w5">de</w>
+        <w xml:id="Gl6403w6"><c ana="#lram-c">i</c>or</w>
+        <pc xml:id="Gl6403pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6403w7">sanz</w>
+        <w xml:id="Gl6403w8">feu</w>
+      </l>
+      <cb xml:id="Gcb144" n="b"/>
+      <l n="6404" xml:id="Gl6404">
+        <w xml:id="Gl6404w1">Ni</w>
+        <w xml:id="Gl6404w2"><c ana="#lram-c">u</c>e<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>ra</w>
+        <w xml:id="Gl6404w3">hom</w>
+        <w xml:id="Gl6404w4" ana="#aggl-s">en</w>
+        <w xml:id="Gl6404w5">nul</w>
+        <w xml:id="Gl6404w6">leu</w>
+        <pc xml:id="Gl6404pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6405" xml:id="Gl6405">
+        <w xml:id="Gl6405w1" ana="#aggl-s">L<c ana="#diacr-desamb">a</c></w>
+        <w xml:id="Gl6405w2">tienent</w>
+        <w xml:id="Gl6405w3">le</w>
+        <w xml:id="Gl6405w4">riches</w>
+        <w xml:id="Gl6405w5">prisons</w>
+      </l>
+      <l n="6406" xml:id="Gl6406">
+        <w xml:id="Gl6406w1">En</w>
+        <w xml:id="Gl6406w2">la</w>
+        <w xml:id="Gl6406w3">roche</w>
+        <w xml:id="Gl6406w4">soz</w>
+        <w xml:id="Gl6406w5">le</w>
+        <w xml:id="Gl6406w6">lions</w>
+        <pc xml:id="Gl6406pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6407" xml:id="Gl6407">
+        <w xml:id="Gl6407w1">Ceus</w>
+        <w xml:id="Gl6407w2">que</w>
+        <w xml:id="Gl6407w3">il</w>
+        <w xml:id="Gl6407w4">ont</w>
+        <w xml:id="Gl6407w5" ana="#aggl-s">par</w>
+        <w xml:id="Gl6407w6">force</w>
+        <w xml:id="Gl6407w7">pris</w>
+        <pc xml:id="Gl6407pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6408" xml:id="Gl6408">
+        <w xml:id="Gl6408w1" ana="#aggl-s">Li</w>
+        <persName ref="#RPE">
+          <roleName>
+            <w xml:id="Gl6408w2">rois</w>
+          </roleName>
+          <w xml:id="Gl6408w3">de</w>
+          <placeName type="region" ref="#PER">
+            <name>
+              <w xml:id="Gl6408w4">perse</w>
+            </name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6408pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6408w5" ana="#aggl-s">ce</w>
+        <w xml:id="Gl6408w6" ana="#elis">m</w>
+        <w xml:id="Gl6408w7">est</w>
+        <w xml:id="Gl6408w8"><c ana="#lram-c">u</c>is</w>
+        <pc xml:id="Gl6408pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6409" xml:id="Gl6409">
+        <w xml:id="Gl6409w1">Cui</w>
+        <w xml:id="Gl6409w2">ere</w>
+        <w xml:id="Gl6409w3">fille</w>
+        <w xml:id="Gl6409w4"><c ana="#lram-c">u</c>estre</w>
+        <w xml:id="Gl6409w5">mere</w>
+        <pc xml:id="Gl6409pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6410" xml:id="Gl6410">
+        <w xml:id="Gl6410w1">Tient</w>
+        <w xml:id="Gl6410w2">il</w>
+        <w xml:id="Gl6410w3">pris</w>
+        <w xml:id="Gl6410w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6410w5"><c ana="#lram-c">u</c>estre</w>
+        <w xml:id="Gl6410w6">pere</w>
+        <pc xml:id="Gl6410pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6411" xml:id="Gl6411">
+        <w xml:id="Gl6411w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6411w2">ne</w>
+        <w xml:id="Gl6411w3">prist</w>
+        <w xml:id="Gl6411w4">onques</w>
+        <w xml:id="Gl6411w5">reençon</w>
+      </l>
+      <l n="6412" xml:id="Gl6412">
+        <w xml:id="Gl6412w1" ana="#elis">D</w>
+        <w xml:id="Gl6412w2">ome</w>
+        <w xml:id="Gl6412w3">puis</w>
+        <w xml:id="Gl6412w4" ana="#elis">qu</w>
+        <w xml:id="Gl6412w5">il</w>
+        <w xml:id="Gl6412w6" ana="#elis">l</w>
+        <w xml:id="Gl6412w7">ot</w>
+        <w xml:id="Gl6412w8" ana="#aggl-s">en</w>
+        <w xml:id="Gl6412w9">prison</w>
+        <pc xml:id="Gl6412pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6413" xml:id="Gl6413">
+        <w xml:id="Gl6413w1">Qui</w>
+        <w xml:id="Gl6413w2">fist</w>
+        <w xml:id="Gl6413w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6413w4">chastieus</w>
+        <w xml:id="Gl6413w5">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6413w6" ana="#aggl-s">fu</w>
+        <w xml:id="Gl6413w7">sagies</w>
+        <pc xml:id="Gl6413pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6414" xml:id="Gl6414">
+        <w xml:id="Gl6414w1" ana="#aggl-c">Sor</w>
+        <w xml:id="Gl6414w2" ana="#aggl">le</w>
+        <w xml:id="Gl6414w3">lion</w>
+        <w xml:id="Gl6414w4" ana="#aggl-s">a</w>
+        <w xml:id="Gl6414w5" type="number-letter">trois</w>
+        <w xml:id="Gl6414w6">estagies</w>
+        <pc xml:id="Gl6414pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6415" xml:id="Gl6415">
+        <w xml:id="Gl6415w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6415w2">primerain</w>
+        <w xml:id="Gl6415w3">sor</w>
+        <w xml:id="Gl6415w4">le</w>
+        <w xml:id="Gl6415w5">lions</w>
+      </l>
+      <l n="6416" xml:id="Gl6416">
+        <w xml:id="Gl6416w1" ana="#aggl-s">Ha</w>
+        <w xml:id="Gl6416w2">grant</w>
+        <w xml:id="Gl6416w3">sales</w>
+        <w xml:id="Gl6416w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6416w5">gra<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6416w6">maisons</w>
+        <pc xml:id="Gl6416pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6417" xml:id="Gl6417">
+        <w xml:id="Gl6417w1">Par</w>
+        <w xml:id="Gl6417w2">tot</w>
+        <w xml:id="Gl6417w3">sont</w>
+        <w xml:id="Gl6417w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6417w5">piler</w>
+        <w xml:id="Gl6417w6">marbrinz</w>
+        <pc xml:id="Gl6417pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6418" xml:id="Gl6418">
+        <w xml:id="Gl6418w1">Tuit</w>
+        <w xml:id="Gl6418w2">furent</w>
+        <w xml:id="Gl6418w3">o<c ana="#lram-c">u</c>r<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6418w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6418w5">or</w>
+        <w xml:id="Gl6418w6">fin</w>
+        <pc xml:id="Gl6418pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6419" xml:id="Gl6419">
+        <w xml:id="Gl6419w1" ana="#aggl-s-uncert">Li</w>
+        <w xml:id="Gl6419w2">amiral</w>
+        <w xml:id="Gl6419w3" ana="#aggl-s-uncert">li</w>
+        <w xml:id="Gl6419w4">fait</w>
+        <w xml:id="Gl6419w5">ester</w>
+      </l>
+      <l n="6420" xml:id="Gl6420">
+        <w xml:id="Gl6420w1">Ser<c ana="#lram-c">i</c>anz</w>
+        <w xml:id="Gl6420w2" ana="#aggl-s">por</w>
+        <w xml:id="Gl6420w3">le</w>
+        <w xml:id="Gl6420w4">chastel</w>
+        <w xml:id="Gl6420w5">garder</w>
+        <pc xml:id="Gl6420pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6421" xml:id="Gl6421">
+        <w xml:id="Gl6421w1" type="number-letter"><c ana="#lram-c">V</c>int</w>
+        <w xml:id="Gl6421w2">en</w>
+        <w xml:id="Gl6421w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6421w4">a</w>
+        <pc xml:id="Gl6421pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6421w5"><c ana="#lram-c">i</c>e</w>
+        <w xml:id="Gl6421w6" ana="#elis">l</w>
+        <w xml:id="Gl6421w7" ana="#aggl-s">o<c ana="#hiat">i</c></w>
+        <w xml:id="Gl6421w8">dire</w>
+        <pc xml:id="Gl6421pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6422" xml:id="Gl6422">
+        <persName ref="#SOL">
+          <forename>
+            <w xml:id="Gl6422w1">Solimanz</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6422w2">est</w>
+        <w xml:id="Gl6422w3">nom<c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6422w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6422w5">sire</w>
+        <pc xml:id="Gl6422pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6423" xml:id="Gl6423">
+        <w xml:id="Gl6423w1">Lasus</w>
+        <w xml:id="Gl6423w2">en</w>
+        <w xml:id="Gl6423w3">le</w>
+        <w xml:id="Gl6423w4">plus</w>
+        <w xml:id="Gl6423w5">aut</w>
+        <w xml:id="Gl6423w6">estaige</w>
+        <pc xml:id="Gl6423pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6424" xml:id="Gl6424">
+        <w xml:id="Gl6424w1" ana="#aggl-s-uncert">L<c ana="#diacr-desamb">a</c></w>
+        <w xml:id="Gl6424w2">est</w>
+        <w xml:id="Gl6424w3" ana="#aggl-s">la</w>
+        <persName ref="#ENE">
+          <roleName>
+            <w xml:id="Gl6424w4">dame</w>
+          </roleName>
+          <w xml:id="Gl6424w5">de</w>
+          <placeName type="city" ref="#CAR">
+            <name>
+              <w xml:id="Gl6424w6">chartaige</w>
+            </name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6424pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6425" xml:id="Gl6425">
+        <w xml:id="Gl6425w1" ana="#aggl-s-uncert">La</w>
+        <w xml:id="Gl6425w2">fille</w>
+        <w xml:id="Gl6425w3" ana="#aggl-s">au</w>
+        <persName ref="#RDN">
+          <roleName>
+            <w xml:id="Gl6425w4">roi</w>
+          </roleName>
+          <w xml:id="Gl6425w5">de</w>
+          <placeName type="region" ref="#NUB">
+            <name>
+              <w xml:id="Gl6425w6">nubie</w>
+            </name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6425pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6426" xml:id="Gl6426">
+        <w xml:id="Gl6426w1">Hom</w>
+        <w xml:id="Gl6426w2">la</w>
+        <w xml:id="Gl6426w3">nome</w>
+        <persName ref="#ENE">
+          <forename>
+            <w xml:id="Gl6426w4">eumenedie</w>
+          </forename>
+        </persName>
+        <pc xml:id="Gl6426pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6427" xml:id="Gl6427">
+        <w xml:id="Gl6427w1">De</w>
+        <w xml:id="Gl6427w2">sa</w>
+        <w xml:id="Gl6427w3">fille</w>
+        <persName ref="#OLI">
+          <forename>
+            <w xml:id="Gl6427w4">olimpias</w>
+          </forename>
+        </persName>
+      </l>
+      <l n="6428" xml:id="Gl6428">
+        <w xml:id="Gl6428w1">Ce</w>
+        <w xml:id="Gl6428w2">dient</w>
+        <pc xml:id="Gl6428pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6428w3" ana="#elis">qu</w>
+        <w xml:id="Gl6428w4">il</w>
+        <w xml:id="Gl6428w5" ana="#elis">n</w>
+        <w xml:id="Gl6428w6">est</w>
+        <w xml:id="Gl6428w7">mie</w>
+        <w xml:id="Gl6428w8">gas</w>
+        <pc xml:id="Gl6428pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6429" xml:id="Gl6429">
+        <w xml:id="Gl6429w1" ana="#elis">N</w>
+        <w xml:id="Gl6429w2" ana="#aggl-c">a</w>
+        <w xml:id="Gl6429w3" ana="#aggl">si</w>
+        <w xml:id="Gl6429w4">belle</w>
+        <w xml:id="Gl6429w5" ana="#aggl-s-uncert">en</w>
+        <w xml:id="Gl6429w6" type="number-letter">cens</w>
+        <w xml:id="Gl6429w7">pa<c ana="#hiat">i</c>s</w>
+        <pc xml:id="Gl6429pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6430" xml:id="Gl6430">
+        <w xml:id="Gl6430w1">Cors</w>
+        <w xml:id="Gl6430w2" ana="#aggl-s">a</w>
+        <w xml:id="Gl6430w3">bien</w>
+        <w xml:id="Gl6430w4">fet</w>
+        <w xml:id="Gl6430w5" ana="#aggl-c">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6430w6" ana="#aggl">cler</w>
+        <w xml:id="Gl6430w7"><c ana="#lram-c">u</c>is</w>
+        <pc xml:id="Gl6430pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6431" xml:id="Gl6431">
+        <w xml:id="Gl6431w1">Assez</w>
+        <w xml:id="Gl6431w2" ana="#aggl-s">i</w>
+        <w xml:id="Gl6431w3">a</w>
+        <w xml:id="Gl6431w4">dames</w>
+        <w xml:id="Gl6431w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6431w6">pucelles</w>
+      </l>
+      <l n="6432" xml:id="Gl6432">
+        <w xml:id="Gl6432w1">Et</w>
+        <w xml:id="Gl6432w2">de</w>
+        <w xml:id="Gl6432w3">cortoisez</w>
+        <w xml:id="Gl6432w4" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6432w5">de</w>
+        <w xml:id="Gl6432w6">belles</w>
+        <pc xml:id="Gl6432pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6433" xml:id="Gl6433">
+        <w xml:id="Gl6433w1">Cil</w>
+        <w xml:id="Gl6433w2">estaige</w>
+        <w xml:id="Gl6433w3">est</w>
+        <w xml:id="Gl6433w4">aut</w>
+        <w xml:id="Gl6433w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6433w6">grant</w>
+        <pc xml:id="Gl6433pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6434" xml:id="Gl6434">
+        <w xml:id="Gl6434w1">Le</w>
+        <w xml:id="Gl6434w2">chanbres</w>
+        <w xml:id="Gl6434w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6434w4">furent</w>
+        <w xml:id="Gl6434w5" ana="#aggl-s">por</w>
+        <w xml:id="Gl6434w6">pant</w>
+      </l>
+      <l n="6435" xml:id="Gl6435">
+        <w xml:id="Gl6435w1" ana="#aggl-s">De</w>
+        <w xml:id="Gl6435w2">marbre</w>
+        <w xml:id="Gl6435w3">blanc</w>
+        <w xml:id="Gl6435w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6435w5"><c ana="#lram-c">u</c>ert</w>
+        <w xml:id="Gl6435w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6435w7">bis</w>
+        <pc xml:id="Gl6435pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6436" xml:id="Gl6436">
+        <w xml:id="Gl6436w1">Par</w>
+        <w xml:id="Gl6436w2">tot</w>
+        <w xml:id="Gl6436w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6436w4">fu</w>
+        <w xml:id="Gl6436w5">li</w>
+        <w xml:id="Gl6436w6">or</w>
+        <w xml:id="Gl6436w7">assis</w>
+        <pc xml:id="Gl6436pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6437" xml:id="Gl6437">
+        <w xml:id="Gl6437w1">Et</w>
+        <w xml:id="Gl6437w2">li</w>
+        <w xml:id="Gl6437w3">amiral</w>
+        <w xml:id="Gl6437w4">son</w>
+        <w xml:id="Gl6437w5">tresor</w>
+      </l>
+      <l n="6438" xml:id="Gl6438">
+        <w xml:id="Gl6438w1">
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6438w2">tient</w>
+        <w xml:id="Gl6438w3">grant</w>
+        <pc xml:id="Gl6438pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6438w4" ana="#elis">d</w>
+        <w xml:id="Gl6438w5">argent</w>
+        <w xml:id="Gl6438w6" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6438w7" ana="#elis">d</w>
+        <w xml:id="Gl6438w8">or</w>
+        <pc xml:id="Gl6438pc2" resp="#ed">.</pc>
+      </l>
+      <l n="6439" xml:id="Gl6439">
+        <w xml:id="Gl6439w1">Desus</w>
+        <pc xml:id="Gl6439pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6439w2">el</w>
+        <w xml:id="Gl6439w3">dereain</w>
+        <w xml:id="Gl6439w4">estaige</w>
+        <pc xml:id="Gl6439pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6440" xml:id="Gl6440">
+        <w xml:id="Gl6440w1">So<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6440w2" type="number-letter"><c ana="#lram-c">u</c>int</w>
+        <w xml:id="Gl6440w3">ser<c ana="#lram-c">i</c>anz</w>
+        <w xml:id="Gl6440w4">
+          <expan corresp="#ab-tild-q">q<ex>ue</ex></expan>
+        </w>
+        <w xml:id="Gl6440w5">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6440w6">so<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6440w7">saige</w>
+      </l>
+      <l n="6441" xml:id="Gl6441">
+        <w xml:id="Gl6441w1">Por</w>
+        <w xml:id="Gl6441w2" ana="#elis">l</w>
+        <w xml:id="Gl6441w3">isle</w>
+        <w xml:id="Gl6441w4">garder</w>
+        <w xml:id="Gl6441w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6441w6"><c ana="#lram-c">u</c>eoir</w>
+        <pc xml:id="Gl6441pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6442" xml:id="Gl6442">
+        <w xml:id="Gl6442w1">Meis</w>
+        <w xml:id="Gl6442w2">il</w>
+        <w xml:id="Gl6442w3" ana="#elis">n</w>
+        <w xml:id="Gl6442w4">ont</w>
+        <w xml:id="Gl6442w5">de</w>
+        <w xml:id="Gl6442w6">feme</w>
+        <w xml:id="Gl6442w7">pooir</w>
+        <pc xml:id="Gl6442pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6443" xml:id="Gl6443">
+        <w xml:id="Gl6443w1">Ne</w>
+        <w xml:id="Gl6443w2">cil</w>
+        <w xml:id="Gl6443w3" ana="#degl">de<space type="#degl"/>sus</w>
+        <w xml:id="Gl6443w4">ne</w>
+        <w xml:id="Gl6443w5" ana="#aggl-s-uncert">cil</w>
+        <w xml:id="Gl6443w6" ana="#degl">de<space type="#degl"/>soz</w>
+        <pc xml:id="Gl6443pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6444" xml:id="Gl6444">
+        <w xml:id="Gl6444w1">Quar</w>
+        <w xml:id="Gl6444w2">li</w>
+        <w xml:id="Gl6444w3">amiral</w>
+        <w xml:id="Gl6444w4">les</w>
+        <w xml:id="Gl6444w5">fist</w>
+        <w xml:id="Gl6444w6">toz</w>
+      </l>
+      <l n="6445" xml:id="Gl6445">
+        <w xml:id="Gl6445w1">Por</w>
+        <w xml:id="Gl6445w2">sa</w>
+        <w xml:id="Gl6445w3">feme</w>
+        <w xml:id="Gl6445w4">si</w>
+        <w xml:id="Gl6445w5">atorner</w>
+      </l>
+      <l n="6446" xml:id="Gl6446">
+        <w xml:id="Gl6446w1">Et</w>
+        <w xml:id="Gl6446w2">por</w>
+        <w xml:id="Gl6446w3">le</w>
+        <w xml:id="Gl6446w4">pucelles</w>
+        <w xml:id="Gl6446w5">garder</w>
+        <pc xml:id="Gl6446pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6447" xml:id="Gl6447">
+        <w xml:id="Gl6447w1">El</w>
+        <w xml:id="Gl6447w2">chastel</w>
+        <w xml:id="Gl6447w3">ot</w>
+        <w xml:id="Gl6447w4">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6447w5">grant</w>
+        <w xml:id="Gl6447w6">desduit</w>
+      </l>
+      <pb xml:id="Gpb78" n="68r"/>
+      <cb xml:id="Gcb145" n="a"/>
+      <l n="6448" xml:id="Gl6448">
+        <w xml:id="Gl6448w1">Et</w>
+        <w xml:id="Gl6448w2">mil</w>
+        <w xml:id="Gl6448w3">arbres</w>
+        <w xml:id="Gl6448w4">que</w>
+        <w xml:id="Gl6448w5">portent</w>
+        <w xml:id="Gl6448w6">fruit</w>
+      </l>
+      <l n="6449" xml:id="Gl6449">
+        <w xml:id="Gl6449w1" ana="#elis">D</w>
+        <w xml:id="Gl6449w2" ana="#aggl-s">entor</w>
+        <w xml:id="Gl6449w3">le</w>
+        <w xml:id="Gl6449w4">chastel</w>
+        <w xml:id="Gl6449w5">sont</w>
+        <w xml:id="Gl6449w6">plant<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6449pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6450" xml:id="Gl6450">
+        <w xml:id="Gl6450w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6450w2" ana="#aggl-s">i</w>
+        <w xml:id="Gl6450w3">a</w>
+        <w xml:id="Gl6450w4">char</w>
+        <pc xml:id="Gl6450pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6450w5">pain</w>
+        <w xml:id="Gl6450w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6450w7">bl<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6450pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6451" xml:id="Gl6451">
+        <w xml:id="Gl6451w1">Assez</w>
+        <w xml:id="Gl6451w2" ana="#aggl-s">i</w>
+        <w xml:id="Gl6451w3">a</w>
+        <w xml:id="Gl6451w4">pain</w>
+        <w xml:id="Gl6451w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6451w6"><c ana="#lram-c">u</c>in</w>
+        <pc xml:id="Gl6451pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6452" xml:id="Gl6452">
+        <w xml:id="Gl6452w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6452w2">forn</w>
+        <w xml:id="Gl6452w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6452w4">sont</w>
+        <w xml:id="Gl6452w5" ana="#aggl-c">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6452w6" ana="#aggl">le</w>
+        <w xml:id="Gl6452w7">molin</w>
+      </l>
+      <l n="6453" xml:id="Gl6453">
+        <w xml:id="Gl6453w1">Et</w>
+        <w xml:id="Gl6453w2">cisterne</w>
+        <w xml:id="Gl6453w3">o<c ana="#diacr-desamb">u</c></w>
+        <w xml:id="Gl6453w4">est</w>
+        <w xml:id="Gl6453w5" ana="#elis">l</w>
+        <w xml:id="Gl6453w6">e<c ana="#lram-c">u</c>e</w>
+        <w xml:id="Gl6453w7">froide</w>
+        <pc xml:id="Gl6453pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6454" xml:id="Gl6454">
+        <w xml:id="Gl6454w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6454w2">pi<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6454w3" ana="#degl">de<space type="#degl"/>soz</w>
+        <w xml:id="Gl6454w4">est</w>
+        <w xml:id="Gl6454w5" ana="#aggl-s">la</w>
+        <w xml:id="Gl6454w6">mer</w>
+        <w xml:id="Gl6454w7">roide</w>
+        <pc xml:id="Gl6454pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6455" xml:id="Gl6455">
+        <w xml:id="Gl6455w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6455w2">port</w>
+        <w xml:id="Gl6455w3"><c ana="#lram-c">u</c>ienent</w>
+        <w xml:id="Gl6455w4" ana="#elis">d</w>
+        <w xml:id="Gl6455w5">autre</w>
+        <w xml:id="Gl6455w6">pa<c ana="#hiat">i</c>s</w>
+      </l>
+      <l n="6456" xml:id="Gl6456">
+        <w xml:id="Gl6456w1">Plusor</w>
+        <w xml:id="Gl6456w2">a<c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6456w3" ana="#aggl-s">en</w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6456w4">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6456pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6457" xml:id="Gl6457">
+        <w xml:id="Gl6457w1" ana="#aggl-s">Au</w>
+        <w xml:id="Gl6457w2">partir</w>
+        <w xml:id="Gl6457w3">prenent</w>
+        <w xml:id="Gl6457w4" ana="#aggl-s">le</w>
+        <w xml:id="Gl6457w5">peage</w>
+      </l>
+      <l n="6458" xml:id="Gl6458">
+        <w xml:id="Gl6458w1">De</w>
+        <w xml:id="Gl6458w2">part</w>
+        <w xml:id="Gl6458w3" ana="#elis">l</w>
+        <persName ref="#ADC">
+          <roleName>
+            <w xml:id="Gl6458w4">amiraus</w>
+          </roleName>
+          <w xml:id="Gl6458w5">de</w>
+          <placeName type="city" ref="#CAR">
+            <name>
+              <w xml:id="Gl6458w6">chartage</w>
+            </name>
+          </placeName>
+        </persName>
+      </l>
+      <l n="6459" xml:id="Gl6459">
+        <w xml:id="Gl6459w1">Et</w>
+        <w xml:id="Gl6459w2">garde</w>
+        <w xml:id="Gl6459w3">les</w>
+        <w xml:id="Gl6459w4">autres</w>
+        <w xml:id="Gl6459w5">chastieus</w>
+        <pc xml:id="Gl6459pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6460" xml:id="Gl6460">
+        <w xml:id="Gl6460w1">En</w>
+        <w xml:id="Gl6460w2">
+          <geogName ref="#MAG">
+            <name>magalon</name>
+          </geogName>
+        </w>
+        <w xml:id="Gl6460w3" ana="#elis">n</w>
+        <w xml:id="Gl6460w4">a</w>
+        <w xml:id="Gl6460w5">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6460w6">de</w>
+        <w xml:id="Gl6460w7">bieus</w>
+      </l>
+      <l n="6461" xml:id="Gl6461">
+        <w xml:id="Gl6461w1">Et</w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6461w2">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6461w3" ana="#elis">n</w>
+        <w xml:id="Gl6461w4">a</w>
+        <w xml:id="Gl6461w5">il</w>
+        <w xml:id="Gl6461w6">pooir</w>
+        <pc xml:id="Gl6461pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6462" xml:id="Gl6462">
+        <w xml:id="Gl6462w1">Mais</w>
+        <w xml:id="Gl6462w2">li</w>
+        <w xml:id="Gl6462w3">portier</w>
+        <w xml:id="Gl6462w4">tient</w>
+        <w xml:id="Gl6462w5" ana="#aggl-s">tot</w>
+        <w xml:id="Gl6462w6" ana="#elis">l</w>
+        <w xml:id="Gl6462w7">a<c ana="#lram-c">u</c>oir</w>
+        <pc xml:id="Gl6462pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6463" xml:id="Gl6463">
+        <w xml:id="Gl6463w1">Les</w>
+        <w xml:id="Gl6463w2">e<c ana="#lram-c">u</c>es</w>
+        <w xml:id="Gl6463w3">douces</w>
+        <w xml:id="Gl6463w4">por</w>
+        <w xml:id="Gl6463w5">peschier</w>
+        <pc xml:id="Gl6463pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6464" xml:id="Gl6464">
+        <w xml:id="Gl6464w1">Les</w>
+        <w xml:id="Gl6464w2">for<c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6464w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6464w4">sont</w>
+        <w xml:id="Gl6464w5">por</w>
+        <w xml:id="Gl6464w6">chacier</w>
+        <pc xml:id="Gl6464pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6465" xml:id="Gl6465">
+        <w xml:id="Gl6465w1">Et</w>
+        <w xml:id="Gl6465w2" ana="#elis">l</w>
+        <persName ref="#ADC">
+          <roleName>
+            <w xml:id="Gl6465w3">amiraus</w>
+          </roleName>
+          <w xml:id="Gl6465w4">de</w>
+          <placeName type="city" ref="#CAR">
+            <name>
+              <w xml:id="Gl6465w5">chartage</w>
+            </name>
+          </placeName>
+        </persName>
+      </l>
+      <l n="6466" xml:id="Gl6466">
+        <w xml:id="Gl6466w1" ana="#aggl-s">
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6466w2">maint</w>
+        <w xml:id="Gl6466w3">mainte</w>
+        <w xml:id="Gl6466w4">foiz</w>
+        <w xml:id="Gl6466w5">po</w>
+        <w xml:id="Gl6466w6">estage</w>
+        <pc xml:id="Gl6466pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6467" xml:id="Gl6467">
+        <w xml:id="Gl6467w1">Sire</w>
+        <pc xml:id="Gl6467pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6467w2"><c ana="#lram-c">u</c>oir</w>
+        <pc xml:id="Gl6467pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6467w3">il</w>
+        <w xml:id="Gl6467w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6467w5">het</w>
+        <w xml:id="Gl6467w6">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6467w7">fort</w>
+      </l>
+      <l n="6468" xml:id="Gl6468">
+        <w xml:id="Gl6468w1">Por</w>
+        <w xml:id="Gl6468w2">son</w>
+        <w xml:id="Gl6468w3">ne<c ana="#lram-c">u</c>ou</w>
+        <w xml:id="Gl6468w4">qui</w>
+        <w xml:id="Gl6468w5" ana="#encl">l</w>
+        <w xml:id="Gl6468w6">a<c ana="#lram-c">u</c>ez</w>
+        <w xml:id="Gl6468w7">mort</w>
+        <pc xml:id="Gl6468pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6469" xml:id="Gl6469">
+        <persName ref="#GAR">
+          <forename>
+            <w xml:id="Gl6469w1">Gargane<c ana="#hiat">u</c>s</w>
+          </forename>
+        </persName>
+        <pc xml:id="Gl6469pc1" resp="#ed">.</pc>
+        <w xml:id="Gl6469w2"><c ana="#lram-c">i</c>a</w>
+        <w xml:id="Gl6469w3" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6469w4">nul</w>
+        <w xml:id="Gl6469w5"><c ana="#lram-c">i</c>or</w>
+      </l>
+      <l n="6470" xml:id="Gl6470">
+        <w xml:id="Gl6470w1">Ne</w>
+        <w xml:id="Gl6470w2">croi</w>
+        <w xml:id="Gl6470w3">que</w>
+        <w xml:id="Gl6470w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6470w5">ai<c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6470w6" ana="#elis">s</w>
+        <w xml:id="Gl6470w7">amor</w>
+      </l>
+      <l n="6471" xml:id="Gl6471">
+        <w xml:id="Gl6471w1">Quar</w>
+        <w xml:id="Gl6471w2">il</w>
+        <w xml:id="Gl6471w3">ne</w>
+        <w xml:id="Gl6471w4">puet</w>
+        <w xml:id="Gl6471w5">celui</w>
+        <w xml:id="Gl6471w6">amer</w>
+      </l>
+      <l n="6472" xml:id="Gl6472">
+        <w xml:id="Gl6472w1">Qui</w>
+        <w xml:id="Gl6472w2">rien</w>
+        <w xml:id="Gl6472w3">li</w>
+        <w xml:id="Gl6472w4">osoit</w>
+        <w xml:id="Gl6472w5">contrester</w>
+        <pc xml:id="Gl6472pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6473" xml:id="Gl6473">
+        <w xml:id="Gl6473w1" ana="#aggl-s">De</w>
+        <w xml:id="Gl6473w2"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6473w3">se</w>
+        <w xml:id="Gl6473w4">plaint</w>
+        <pc xml:id="Gl6473pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6473w5">ainz</w>
+        <w xml:id="Gl6473w6" ana="#elis">qu</w>
+        <w xml:id="Gl6473w7">il</w>
+        <w xml:id="Gl6473w8">remagne</w>
+      </l>
+      <l n="6474" xml:id="Gl6474">
+        <w xml:id="Gl6474w1">Est</w>
+        <w xml:id="Gl6474w2" ana="#aggl-s">il</w>
+        <w xml:id="Gl6474w3">bien</w>
+        <w xml:id="Gl6474w4">droiz</w>
+        <w xml:id="Gl6474w5">qui</w>
+        <w xml:id="Gl6474w6">mieuz</w>
+        <w xml:id="Gl6474w7" ana="#elis">s</w>
+        <w xml:id="Gl6474w8">en</w>
+        <w xml:id="Gl6474w9"><subst><del rend="transf">b</del><add place="sup">p</add></subst>lagne</w>
+        <pc xml:id="Gl6474pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6475" xml:id="Gl6475">
+        <w xml:id="Gl6475w1">Sire</w>
+        <pc xml:id="Gl6475pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6475w2"><c ana="#lram-c">u</c>oir</w>
+        <pc xml:id="Gl6475pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6475w3">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6475w4">a<c ana="#lram-c">u</c>ez</w>
+        <w xml:id="Gl6475w5">gra<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6475w6">gent</w>
+      </l>
+      <l n="6476" xml:id="Gl6476">
+        <w xml:id="Gl6476w1">Quar</w>
+        <w xml:id="Gl6476w2">de<c ana="#lram-c">u</c>ant</w>
+        <w xml:id="Gl6476w3" ana="#aggl-s">lo</w>
+        <w xml:id="Gl6476w4">tornoiement</w>
+      </l>
+      <l n="6477" xml:id="Gl6477">
+        <w xml:id="Gl6477w1">A<c ana="#lram-c">u</c>oit</w>
+        <w xml:id="Gl6477w2">chascun</w>
+        <w xml:id="Gl6477w3" ana="#aggl-s">sa</w>
+        <w xml:id="Gl6477w4">gent</w>
+        <w xml:id="Gl6477w5">mandee</w>
+      </l>
+      <l n="6478" xml:id="Gl6478">
+        <w xml:id="Gl6478w1">Por</w>
+        <w xml:id="Gl6478w2">le</w>
+        <w xml:id="Gl6478w3">secors</w>
+        <w xml:id="Gl6478w4" ana="#aggl-s">en</w>
+        <w xml:id="Gl6478w5">sa</w>
+        <w xml:id="Gl6478w6">contree</w>
+        <pc xml:id="Gl6478pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6479" xml:id="Gl6479">
+        <w xml:id="Gl6479w1" ana="#aggl-s"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6479w2">nus</w>
+        <w xml:id="Gl6479w3">ne</w>
+        <w xml:id="Gl6479w4" ana="#elis">n</w>
+        <w xml:id="Gl6479w5">iert</w>
+        <w xml:id="Gl6479w6">contramand<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6479pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6480" xml:id="Gl6480">
+        <w xml:id="Gl6480w1">Meis</w>
+        <w xml:id="Gl6480w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6480w3">passages</w>
+        <w xml:id="Gl6480w4">atornez</w>
+      </l>
+      <l n="6481" xml:id="Gl6481">
+        <w xml:id="Gl6481w1">Et</w>
+        <w xml:id="Gl6481w2">mandez</w>
+        <w xml:id="Gl6481w3">tot</w>
+        <w xml:id="Gl6481w4"><c ana="#lram-c">u</c>estre</w>
+        <w xml:id="Gl6481w5">pooir</w>
+        <pc xml:id="Gl6481pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6482" xml:id="Gl6482">
+        <w xml:id="Gl6482w1">Et</w>
+        <w xml:id="Gl6482w2">por</w>
+        <w xml:id="Gl6482w3">amis</w>
+        <w xml:id="Gl6482w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6482w5">por</w>
+        <w xml:id="Gl6482w6">a<c ana="#lram-c">u</c>oir</w>
+        <pc xml:id="Gl6482pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6483" xml:id="Gl6483">
+        <w xml:id="Gl6483w1">Quar</w>
+        <w xml:id="Gl6483w2"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6483w3">gent</w>
+        <w xml:id="Gl6483w4"><c ana="#lram-c">u</c>eront</w>
+        <w xml:id="Gl6483w5" ana="#aggl-s">o</w>
+        <w xml:id="Gl6483w6">nos</w>
+        <pc xml:id="Gl6483pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6484" xml:id="Gl6484">
+        <w xml:id="Gl6484w1">A</w>
+        <w xml:id="Gl6484w2">grant</w>
+        <w xml:id="Gl6484w3">honor</w>
+        <w xml:id="Gl6484w4">seront</w>
+        <w xml:id="Gl6484w5">rescos</w>
+      </l>
+      <l n="6485" xml:id="Gl6485">
+        <persName ref="#MAT">
+          <forename>
+            <w xml:id="Gl6485w1">Mataquaz</w>
+          </forename>
+          <w xml:id="Gl6485w2">li</w>
+          <roleName>
+            <w xml:id="Gl6485w3">
+              <choice>
+                <sic>dic</sic>
+                <corr>duc</corr>
+              </choice>
+            </w>
+          </roleName>
+          <w xml:id="Gl6485w4" ana="#elis">d</w>
+          <placeName type="region" ref="#ALB">
+            <name>aubanie</name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6485pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6486" xml:id="Gl6486">
+        <w xml:id="Gl6486w1">Sire</w>
+        <pc xml:id="Gl6486pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6486w2">ce</w>
+        <w xml:id="Gl6486w3">dist</w>
+        <w xml:id="Gl6486w4" ana="#aggl-s">li</w>
+        <persName ref="#CAN">
+          <roleName>
+            <w xml:id="Gl6486w5">rois</w>
+          </roleName>
+          <w xml:id="Gl6486w6" ana="#elis">d</w>
+          <placeName type="region" ref="#ONG">
+            <name>ongrie</name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6486pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6487" xml:id="Gl6487">
+        <w xml:id="Gl6487w1">Et</w>
+        <w xml:id="Gl6487w2">si</w>
+        <w xml:id="Gl6487w3" ana="#aggl-s">i</w>
+        <w xml:id="Gl6487w4">alons</w>
+        <w xml:id="Gl6487w5">droit</w>
+        <w xml:id="Gl6487w6" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="city" ref="#CAR">
+          <name>
+            <w xml:id="Gl6487w7">chartaige</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6487pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6488" xml:id="Gl6488">
+        <w xml:id="Gl6488w1">Fetes</w>
+        <w xml:id="Gl6488w2">atorner</w>
+        <w xml:id="Gl6488w3" ana="#aggl-s">li</w>
+        <w xml:id="Gl6488w4">passaige</w>
+        <pc xml:id="Gl6488pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6489" xml:id="Gl6489">
+        <w xml:id="Gl6489w1">Quant</w>
+        <w xml:id="Gl6489w2">nos</w>
+        <w xml:id="Gl6489w3">a<c ana="#lram-c">u</c>rons</w>
+        <w xml:id="Gl6489w4" ana="#elis">l</w>
+        <w xml:id="Gl6489w5">amiral</w>
+        <w xml:id="Gl6489w6">pris</w>
+        <pc xml:id="Gl6489pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6490" xml:id="Gl6490">
+        <w xml:id="Gl6490w1" ana="#aggl-s">Si</w>
+        <w xml:id="Gl6490w2">tornerons</w>
+        <w xml:id="Gl6490w3" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6490w4">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6490pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6491" xml:id="Gl6491">
+        <w xml:id="Gl6491w1">Oucirons</w>
+        <w xml:id="Gl6491w2">le</w>
+        <w xml:id="Gl6491w3" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6491w4">fier</w>
+        <w xml:id="Gl6491w5">torment</w>
+      </l>
+      <cb xml:id="Gcb146" n="b"/>
+      <l n="6492" xml:id="Gl6492">
+        <w xml:id="Gl6492w1">Se</w>
+        <w xml:id="Gl6492w2">il</w>
+        <w xml:id="Gl6492w3">les</w>
+        <w xml:id="Gl6492w4">prisons</w>
+        <w xml:id="Gl6492w5">ne</w>
+        <w xml:id="Gl6492w6"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6492w7">rent</w>
+        <pc xml:id="Gl6492pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6493" xml:id="Gl6493">
+        <w xml:id="Gl6493w1">Et</w>
+        <w xml:id="Gl6493w2">enz</w>
+        <w xml:id="Gl6493w3">el</w>
+        <w xml:id="Gl6493w4">buen</w>
+        <placeName type="castel" ref="#CLA">
+          <w xml:id="Gl6493w5">chastel</w>
+          <w xml:id="Gl6493w6" ana="#aggl-s">de</w>
+          <name>
+            <w xml:id="Gl6493w7">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6494" xml:id="Gl6494">
+        <w xml:id="Gl6494w1">Tot</w>
+        <w xml:id="Gl6494w2">soient</w>
+        <w xml:id="Gl6494w3">detrenci<c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6494w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6494w5">oucis</w>
+        <pc xml:id="Gl6494pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6495" xml:id="Gl6495">
+        <w xml:id="Gl6495w1">Home</w>
+        <w xml:id="Gl6495w2">ne</w>
+        <w xml:id="Gl6495w3">poez</w>
+        <w xml:id="Gl6495w4">douter</w>
+      </l>
+      <l n="6496" xml:id="Gl6496">
+        <w xml:id="Gl6496w1" ana="#aggl-s-uncert">Qui</w>
+        <w xml:id="Gl6496w2">soit</w>
+        <w xml:id="Gl6496w3" ana="#aggl-s">en</w>
+        <w xml:id="Gl6496w4">tere</w>
+        <w xml:id="Gl6496w5">ne</w>
+        <w xml:id="Gl6496w6">en</w>
+        <w xml:id="Gl6496w7">mer</w>
+        <pc xml:id="Gl6496pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6497" xml:id="Gl6497">
+        <w xml:id="Gl6497w1">Quar</w>
+        <w xml:id="Gl6497w2">neguns</w>
+        <w xml:id="Gl6497w3">hom</w>
+        <w xml:id="Gl6497w4">ne<expan corresp="#ab-tild-nas"><ex>n</ex></expan></w>
+        <w xml:id="Gl6497w5">est</w>
+        <w xml:id="Gl6497w6" ana="#aggl-s">en</w>
+        <w xml:id="Gl6497w7">te<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+      </l>
+      <l n="6498" xml:id="Gl6498">
+        <w xml:id="Gl6498w1">Qui</w>
+        <w xml:id="Gl6498w2">po<c ana="#hiat">i</c>st</w>
+        <w xml:id="Gl6498w3">soufrir</w>
+        <w xml:id="Gl6498w4"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6498w5">ge<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+        <pc xml:id="Gl6498pc1" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6486w1" to="Gl6498w5" type="directspeech"/>
+    </lg>
+    <lg xml:id="Glg337">
+      <l n="6499" xml:id="Gl6499">
+        <persName ref="#FLO">
+          <forename>
+            <w xml:id="Gl6499w1"><hi rend="init-flour">F</hi>loriemont</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6499w2">ot</w>
+        <w xml:id="Gl6499w3" ana="#aggl-s">li</w>
+        <persName ref="#CAN">
+          <roleName>
+            <w xml:id="Gl6499w4">rois</w>
+          </roleName>
+          <w xml:id="Gl6499w5" ana="#elis">d</w>
+          <placeName type="region" ref="#ONG">
+            <name>ongrie</name>
+          </placeName>
+        </persName>
+        <pc xml:id="Gl6499pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6500" xml:id="Gl6500">
+        <w xml:id="Gl6500w1">Por</w>
+        <w xml:id="Gl6500w2" ana="#aggl-s">la</w>
+        <w xml:id="Gl6500w3"><c ana="#lram-c">i</c>oie</w>
+        <w xml:id="Gl6500w4">son</w>
+        <w xml:id="Gl6500w5">duol</w>
+        <w xml:id="Gl6500w6">oblie</w>
+      </l>
+      <l n="6501" xml:id="Gl6501">
+        <w xml:id="Gl6501w1">Quar</w>
+        <w xml:id="Gl6501w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6501w3">riche</w>
+        <w xml:id="Gl6501w4"><expan corresp="#ab-tir-9"><ex>con</ex></expan>seill</w>
+        <w xml:id="Gl6501w5" ana="#aggl-s">a</w>
+        <w xml:id="Gl6501w6">ci</w>
+        <pc xml:id="Gl6501pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6502" xml:id="Gl6502">
+        <w xml:id="Gl6502w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6502w2">rois</w>
+        <w xml:id="Gl6502w3">respont</w>
+        <pc xml:id="Gl6502pc1" resp="#ed">:</pc>
+        <w xml:id="Gl6502w4"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6502w5">merci</w>
+        <pc xml:id="Gl6502pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6503" xml:id="Gl6503">
+        <w xml:id="Gl6503w1">Certes</w>
+        <w xml:id="Gl6503w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6503w3"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6503w4" ana="#aggl-s">en</w>
+        <w xml:id="Gl6503w5">sai</w>
+        <w xml:id="Gl6503w6">buen</w>
+        <w xml:id="Gl6503w7">gr<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6504" xml:id="Gl6504">
+        <w xml:id="Gl6504w1">De</w>
+        <w xml:id="Gl6504w2">ce</w>
+        <w xml:id="Gl6504w3">que</w>
+        <w xml:id="Gl6504w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6504w5">a<c ana="#lram-c">u</c>ez</w>
+        <w xml:id="Gl6504w6">mostr<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6504pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6505" xml:id="Gl6505">
+        <w xml:id="Gl6505w1">Tot</w>
+        <w xml:id="Gl6505w2">sera</w>
+        <w xml:id="Gl6505w3">fet</w>
+        <w xml:id="Gl6505w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6505w5"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6505w6">guise</w>
+        <pc xml:id="Gl6505pc1" resp="#ed">.</pc>
+      </l>
+      <span from="Gl6502w4" to="Gl6505w6" type="directspeech"/>
+      <l n="6506" xml:id="Gl6506">
+        <w xml:id="Gl6506w1">Quant</w>
+        <w xml:id="Gl6506w2" ana="#aggl-s">la</w>
+        <w xml:id="Gl6506w3">parole</w>
+        <w xml:id="Gl6506w4">fu</w>
+        <w xml:id="Gl6506w5">enprise</w>
+        <pc xml:id="Gl6506pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6507" xml:id="Gl6507">
+        <w xml:id="Gl6507w1">Li</w>
+        <w xml:id="Gl6507w2">meisages</w>
+        <w xml:id="Gl6507w3"><c ana="#lram-c">u</c>ont</w>
+        <w xml:id="Gl6507w4" ana="#aggl-c">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6507w5" ana="#aggl">la</w>
+        <w xml:id="Gl6507w6">mer</w>
+      </l>
+      <l n="6508" xml:id="Gl6508">
+        <w xml:id="Gl6508w1" ana="#aggl-s">Le</w>
+        <w xml:id="Gl6508w2">n<c ana="#e-ton">e</c>s</w>
+        <w xml:id="Gl6508w3">chargier</w>
+        <w xml:id="Gl6508w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6508w5">atornier</w>
+        <pc xml:id="Gl6508pc1" resp="#ed">;</pc>
+        <w xml:id="Gl6508w6">&gt;</w>
+      </l>
+      <l n="6509" xml:id="Gl6509">
+        <w xml:id="Gl6509w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6509w2">les</w>
+        <w xml:id="Gl6509w3">atornent</w>
+        <w xml:id="Gl6509w4">bellemant</w>
+        <pc xml:id="Gl6509pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6510" xml:id="Gl6510">
+        <w xml:id="Gl6510w1">Charn</w>
+        <w xml:id="Gl6510w2">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6510w3"><c ana="#lram-c">u</c>in</w>
+        <pc xml:id="Gl6510pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6510w4">olie</w>
+        <w xml:id="Gl6510w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6510w6">formant</w>
+        <pc xml:id="Gl6510pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6511" xml:id="Gl6511">
+        <w xml:id="Gl6511w1">Pan</w>
+        <w xml:id="Gl6511w2">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6511w3">biscoit</w>
+        <w xml:id="Gl6511w4" ana="#aggl-s">i</w>
+        <w xml:id="Gl6511w5">ot</w>
+        <w xml:id="Gl6511w6">assez</w>
+        <pc xml:id="Gl6511pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6512" xml:id="Gl6512">
+        <w xml:id="Gl6512w1">Les</w>
+        <w xml:id="Gl6512w2">ossiers</w>
+        <w xml:id="Gl6512w3">ot</w>
+        <w xml:id="Gl6512w4">bien</w>
+        <w xml:id="Gl6512w5">atorn<c ana="#e-ton">e</c>z</w>
+      </l>
+      <l n="6513" xml:id="Gl6513">
+        <w xml:id="Gl6513w1" ana="#elis">D</w>
+        <w xml:id="Gl6513w2" ana="#aggl-s-uncert">e<c ana="#lram-c">u</c>e</w>
+        <w xml:id="Gl6513w3">douce</w>
+        <pc xml:id="Gl6513pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6513w4" ana="#aggl-s">de</w>
+        <w xml:id="Gl6513w5">fein</w>
+        <pc xml:id="Gl6513pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6513w6" ana="#elis">d</w>
+        <w xml:id="Gl6513w7">
+          <choice>
+            <sic>auone</sic>
+            <corr>avoine</corr>
+          </choice>
+        </w>
+        <pc xml:id="Gl6513pc3" resp="#ed">.</pc>
+      </l>
+      <l n="6514" xml:id="Gl6514">
+        <w xml:id="Gl6514w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6514w2">marine</w>
+        <w xml:id="Gl6514w3">fu</w>
+        <w xml:id="Gl6514w4">auques</w>
+        <w xml:id="Gl6514w5">plo<c ana="#hiat">i</c>ne</w>
+      </l>
+      <l n="6515" xml:id="Gl6515">
+        <w xml:id="Gl6515w1">Des</w>
+        <w xml:id="Gl6515w2">n<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6515pc1" resp="#ed">;</pc>
+        <pc xml:id="Gl6515pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6515w3">quant</w>
+        <w xml:id="Gl6515w4">furent</w>
+        <w xml:id="Gl6515w5">atornees</w>
+        <pc xml:id="Gl6515pc3" resp="#ed">,</pc>
+      </l>
+      <l n="6516" xml:id="Gl6516">
+        <w xml:id="Gl6516w1">A</w>
+        <w xml:id="Gl6516w2" type="number-letter">cent <expan corresp="#ab-tir-7"><ex>et</ex></expan> un<c ana="#ced-dipl">ç</c>e</w>
+        <w xml:id="Gl6516w3">sont</w>
+        <w xml:id="Gl6516w4">nomees</w>
+        <pc xml:id="Gl6516pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6517" xml:id="Gl6517">
+        <w xml:id="Gl6517w1">Sanz</w>
+        <w xml:id="Gl6517w2">cele</w>
+        <w xml:id="Gl6517w3">qui</w>
+        <w xml:id="Gl6517w4">de</w>
+        <w xml:id="Gl6517w5">sez</w>
+        <w xml:id="Gl6517w6">amis</w>
+      </l>
+      <l n="6518" xml:id="Gl6518">
+        <w xml:id="Gl6518w1">
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6518w2"><c ana="#lram-c">u</c>enoient</w>
+        <w xml:id="Gl6518w3" ana="#elis">d</w>
+        <w xml:id="Gl6518w4">autre</w>
+        <w xml:id="Gl6518w5">pa<c ana="#hiat">i</c>s</w>
+        <pc xml:id="Gl6518pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg338">
+      <l n="6519" xml:id="Gl6519">
+        <w xml:id="Gl6519w1" ana="#aggl-s-uncert">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <persName ref="#FLO">
+          <roleName>
+            <w xml:id="Gl6519w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6519w3">floriemont</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6519w4">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6519w5">a<c ana="#lram-c">u</c>oit</w>
+      </l>
+      <l n="6520" xml:id="Gl6520">
+        <w xml:id="Gl6520w1">Des</w>
+        <w xml:id="Gl6520w2"><expan corresp="#ab-ctr-chr">ch<ex>e<c ana="#lram-c">u</c>alie</ex>r</expan>s</w>
+        <pc xml:id="Gl6520pc1" resp="#ed">,</pc>
+        <pc xml:id="Gl6520pc2" resp="#1hd" type="punctus">.</pc>
+        <w xml:id="Gl6520w3">mais</w>
+        <w xml:id="Gl6520w4" ana="#elis">n</w>
+        <w xml:id="Gl6520w5">atendoit</w>
+        <pc xml:id="Gl6520pc3" resp="#ed">:</pc>
+      </l>
+      <l n="6521" xml:id="Gl6521">
+        <w xml:id="Gl6521w1" ana="#elis">D</w>
+        <placeName type="city" ref="#AFR">
+          <name>
+            <w xml:id="Gl6521w2">aufrichia</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6521w3" ana="#aggl-c-uncert">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6521w4" ana="#aggl-uncert">de</w>
+        <placeName type="region" ref="#BAR">
+          <name>
+            <w xml:id="Gl6521w5">barbarie</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6522" xml:id="Gl6522">
+        <w xml:id="Gl6522w1">
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6522w2"><c ana="#lram-c">u</c>enoit</w>
+        <w xml:id="Gl6522w3">grant</w>
+        <w xml:id="Gl6522w4"><expan corresp="#ab-ctr-chr">ch<ex>e<c ana="#lram-c">u</c>alie</ex>r</expan>ie</w>
+        <pc xml:id="Gl6522pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6523" xml:id="Gl6523">
+        <w xml:id="Gl6523w1">De</w>
+        <placeName type="region" ref="#TUR">
+          <name>
+            <w xml:id="Gl6523w2">turquie</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6523w3">de<c ana="#lram-c">u</c>ers</w>
+        <w xml:id="Gl6523w4">le</w>
+        <placeName type="region" ref="#COI">
+          <name>
+            <w xml:id="Gl6523w5">coine</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6524" xml:id="Gl6524">
+        <w xml:id="Gl6524w1">Et</w>
+        <w xml:id="Gl6524w2">de</w>
+        <placeName type="region" ref="#CRE">
+          <name>
+            <w xml:id="Gl6524w3">crite</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6524w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6524w5">de</w>
+        <placeName type="city" ref="#COL">
+          <name>
+            <w xml:id="Gl6524w6">coloine</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6524pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6525" xml:id="Gl6525">
+        <w xml:id="Gl6525w1" ana="#aggl-c">Et</w>
+        <w xml:id="Gl6525w2" ana="#aggl">de</w>
+        <w xml:id="Gl6525w3">la</w>
+        <w xml:id="Gl6525w4">te<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+        <w xml:id="Gl6525w5">de</w>
+        <placeName type="region" ref="#ROS">
+          <name>
+            <w xml:id="Gl6525w6">rossie</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6526" xml:id="Gl6526">
+        <w xml:id="Gl6526w1"><c ana="#lram-c">V</c>ient</w>
+        <w xml:id="Gl6526w2" ana="#aggl-s">par</w>
+        <w xml:id="Gl6526w3">mer</w>
+        <w xml:id="Gl6526w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6526w5">grant</w>
+        <w xml:id="Gl6526w6">na<c ana="#lram-c">u</c>ie</w>
+        <pc xml:id="Gl6526pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6527" xml:id="Gl6527">
+        <w xml:id="Gl6527w1">Et</w>
+        <w xml:id="Gl6527w2" ana="#elis">d</w>
+        <placeName type="region" ref="#ONG">
+          <name>
+            <w xml:id="Gl6527w3">ongrie</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6527w4" ana="#aggl-s">i</w>
+        <w xml:id="Gl6527w5"><c ana="#lram-c">u</c>ient</w>
+        <w xml:id="Gl6527w6" ana="#aggl-s">par</w>
+        <w xml:id="Gl6527w7">te<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+        <pc xml:id="Gl6527pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6528" xml:id="Gl6528">
+        <w xml:id="Gl6528w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6528w2">sunt</w>
+        <w xml:id="Gl6528w3">bien</w>
+        <w xml:id="Gl6528w4">atorn<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6528w5" ana="#aggl-s">de</w>
+        <w xml:id="Gl6528w6">ge<expan corresp="#ab-tild-ang-ver"><ex>r</ex></expan>re</w>
+        <pc xml:id="Gl6528pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6529" xml:id="Gl6529">
+        <w xml:id="Gl6529w1" ana="#aggl-s">Li</w>
+        <persName ref="#MED">
+          <roleName>
+            <w xml:id="Gl6529w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6529w3">medon</w>
+          </forename>
+          <w xml:id="Gl6529w4">de</w>
+          <placeName type="region" ref="#ESC">
+            <name>scla<c ana="#lram-c">u</c>onie</name>
+          </placeName>
+        </persName>
+      </l>
+      <l n="6530" xml:id="Gl6530">
+        <w xml:id="Gl6530w1"><c ana="#lram-c">V</c>ient</w>
+        <w xml:id="Gl6530w2" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6530w3">son</w>
+        <w xml:id="Gl6530w4">ne<c ana="#lram-c">u</c>eu</w>
+        <w xml:id="Gl6530w5">por</w>
+        <w xml:id="Gl6530w6">a<c ana="#hiat">i</c>e</w>
+        <pc xml:id="Gl6530pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6531" xml:id="Gl6531">
+        <w xml:id="Gl6531w1" type="number-letter">Dis millie</w>
+        <w xml:id="Gl6531w2">
+          <expan corresp="#ab-ctr-chr">ch<ex>e<c ana="#lram-c">u</c>alie</ex>r</expan>
+        </w>
+        <w xml:id="Gl6531w3">arm<c ana="#e-ton">e</c>z</w>
+      </l>
+      <l n="6532" xml:id="Gl6532">
+        <w xml:id="Gl6532w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6532w2">a</w>
+        <w xml:id="Gl6532w3">por</w>
+        <w xml:id="Gl6532w4">secors</w>
+        <w xml:id="Gl6532w5">amen<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6532pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6533" xml:id="Gl6533">
+        <w xml:id="Gl6533w1">Por</w>
+        <w xml:id="Gl6533w2">aute</w>
+        <w xml:id="Gl6533w3">mer</w>
+        <pc xml:id="Gl6533pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6533w4">de</w>
+        <placeName type="city" ref="#BAB">
+          <name>
+            <w xml:id="Gl6533w5">babiloine</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6534" xml:id="Gl6534">
+        <w xml:id="Gl6534w1" ana="#aggl-c-uncert">En</w>
+        <w xml:id="Gl6534w2" ana="#aggl-uncert">sont</w>
+        <w xml:id="Gl6534w3"><c ana="#lram-c">u</c>enu</w>
+        <w xml:id="Gl6534w4" ana="#aggl-s">en</w>
+        <placeName type="region" ref="#MAC">
+          <name>
+            <w xml:id="Gl6534w5">ma<c ana="#ced-dipl">ç</c>edoine</w>
+          </name>
+        </placeName>
+      </l>
+      <l n="6535" xml:id="Gl6535">
+        <w xml:id="Gl6535w1" type="number-letter"><c ana="#lram-c">V</c>int millie</w>
+        <w xml:id="Gl6535w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6535w3">bien</w>
+        <w xml:id="Gl6535w4">atorn<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6535pc1" resp="#ed">:</pc>
+      </l>
+      <pb xml:id="Gpb79" n="68v"/>
+      <cb xml:id="Gcb147" n="a"/>
+      <l n="6536" xml:id="Gl6536">
+        <w xml:id="Gl6536w1" ana="#aggl-s">Li</w>
+        <persName ref="#FIL">
+          <roleName>
+            <w xml:id="Gl6536w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6536w3">filips</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6536w4" ana="#elis">l</w>
+        <w xml:id="Gl6536w5">a<c ana="#lram-c">u</c>oit</w>
+        <w xml:id="Gl6536w6">mand<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6536pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6537" xml:id="Gl6537">
+        <w xml:id="Gl6537w1">Son</w>
+        <w xml:id="Gl6537w2">frere</w>
+        <pc xml:id="Gl6537pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6537w3">quar</w>
+        <w xml:id="Gl6537w4">de</w>
+        <w xml:id="Gl6537w5">son</w>
+        <w xml:id="Gl6537w6">pa<c ana="#hiat">i</c>s</w>
+      </l>
+      <l n="6538" xml:id="Gl6538">
+        <w xml:id="Gl6538w1">Les</w>
+        <w xml:id="Gl6538w2">lor</w>
+        <w xml:id="Gl6538w3">ot</w>
+        <w xml:id="Gl6538w4" ana="#aggl-s">de</w>
+        <placeName type="region" ref="#GRE">
+          <name>
+            <w xml:id="Gl6538w5">grece</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6538w6">tramis</w>
+        <pc xml:id="Gl6538pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg339">
+      <l n="6539" xml:id="Gl6539">
+        <w xml:id="Gl6539w1" ana="#aggl-s-uncert">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <persName ref="#FIL">
+          <roleName>
+            <w xml:id="Gl6539w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6539w3">filips</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6539w4"><c ana="#lram-c">u</c>oit</w>
+        <w xml:id="Gl6539w5" ana="#aggl-s">le</w>
+        <w xml:id="Gl6539w6">bernage</w>
+        <pc xml:id="Gl6539pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6540" xml:id="Gl6540">
+        <w xml:id="Gl6540w1">Grant</w>
+        <w xml:id="Gl6540w2"><c ana="#lram-c">i</c>oie</w>
+        <w xml:id="Gl6540w3" ana="#elis">n</w>
+        <w xml:id="Gl6540w4">ot</w>
+        <w xml:id="Gl6540w5" ana="#aggl-s">en</w>
+        <w xml:id="Gl6540w6">son</w>
+        <w xml:id="Gl6540w7">corage</w>
+        <pc xml:id="Gl6540pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6541" xml:id="Gl6541">
+        <w xml:id="Gl6541w1">Quant</w>
+        <w xml:id="Gl6541w2" ana="#aggl-s">el</w>
+        <w xml:id="Gl6541w3">plain</w>
+        <w xml:id="Gl6541w4">fors</w>
+        <w xml:id="Gl6541w5" ana="#aggl-s">la</w>
+        <w xml:id="Gl6541w6"><c ana="#lram-c">u</c>ille</w>
+      </l>
+      <l n="6542" xml:id="Gl6542">
+        <w xml:id="Gl6542w1" ana="#aggl-s">Si</w>
+        <w xml:id="Gl6542w2">sont</w>
+        <w xml:id="Gl6542w3">esm<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6542w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6542w5" type="number-letter">doucent mille</w>
+        <pc xml:id="Gl6542pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6543" xml:id="Gl6543">
+        <w xml:id="Gl6543w1">Sanz</w>
+        <w xml:id="Gl6543w2">ceus</w>
+        <w xml:id="Gl6543w3">de</w>
+        <w xml:id="Gl6543w4">pi<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6543w5">tot</w>
+        <w xml:id="Gl6543w6" ana="#aggl-s">li</w>
+        <w xml:id="Gl6543w7">arm<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6544" xml:id="Gl6544">
+        <w xml:id="Gl6544w1">Des</w>
+        <w xml:id="Gl6544w2">estranges</w>
+        <w xml:id="Gl6544w3">qui</w>
+        <w xml:id="Gl6544w4">sunt</w>
+        <w xml:id="Gl6544w5">mand<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6544pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6545" xml:id="Gl6545">
+        <w xml:id="Gl6545w1">Sanz</w>
+        <w xml:id="Gl6545w2">li</w>
+        <w xml:id="Gl6545w3">riches</w>
+        <w xml:id="Gl6545w4">qui</w>
+        <w xml:id="Gl6545w5" ana="#aggl-s">i</w>
+        <w xml:id="Gl6545w6">sunt</w>
+      </l>
+      <l n="6546" xml:id="Gl6546">
+        <w xml:id="Gl6546w1">
+          <c ana="#lram-v">J</c>
+        </w>
+        <w xml:id="Gl6546w2">ot</w>
+        <w xml:id="Gl6546w3" type="number-letter">set</w>
+        <w xml:id="Gl6546w4">rois</w>
+        <w xml:id="Gl6546w5">sanz</w>
+        <persName ref="#FLO">
+          <forename>
+            <w xml:id="Gl6546w6">floriemont</w>
+          </forename>
+        </persName>
+        <pc xml:id="Gl6546pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg340">
+      <l n="6547" xml:id="Gl6547">
+        <w xml:id="Gl6547w1">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <persName ref="#FIL">
+          <roleName>
+            <w xml:id="Gl6547w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6547w3">filip<add place="interl">s</add></w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6547w4">fu</w>
+        <w xml:id="Gl6547w5"><c ana="#lram-c">u</c>ielz</w>
+        <w xml:id="Gl6547w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6547w7">fraiz</w>
+        <pc xml:id="Gl6547pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6548" xml:id="Gl6548">
+        <w xml:id="Gl6548w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6548w2"><c ana="#lram-c">u</c>escu</w>
+        <pc xml:id="Gl6548pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6548w3">grant</w>
+        <w xml:id="Gl6548w4">mal</w>
+        <w xml:id="Gl6548w5" ana="#aggl-s">a</w>
+        <w xml:id="Gl6548w6">traiz</w>
+        <pc xml:id="Gl6548pc2" resp="#ed">.</pc>
+      </l>
+      <l n="6549" xml:id="Gl6549">
+        <w xml:id="Gl6549w1">Plus</w>
+        <w xml:id="Gl6549w2">amoit</w>
+        <w xml:id="Gl6549w3" ana="#aggl-s">li</w>
+        <persName ref="#FLO">
+          <roleName>
+            <w xml:id="Gl6549w4">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6549w5">floriemont</w>
+          </forename>
+        </persName>
+      </l>
+      <l n="6550" xml:id="Gl6550">
+        <w xml:id="Gl6550w1">Che</w>
+        <w xml:id="Gl6550w2">totes</w>
+        <w xml:id="Gl6550w3">les</w>
+        <w xml:id="Gl6550w4">choses</w>
+        <w xml:id="Gl6550w5">del</w>
+        <w xml:id="Gl6550w6">mont</w>
+        <pc xml:id="Gl6550pc1" resp="#ed">:</pc>
+      </l>
+      <l n="6551" xml:id="Gl6551">
+        <w xml:id="Gl6551w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6551w2">dist</w>
+        <w xml:id="Gl6551w3">que</w>
+        <w xml:id="Gl6551w4" ana="#aggl-s">ot</w>
+        <w xml:id="Gl6551w5">lui</w>
+        <w xml:id="Gl6551w6">ira</w>
+        <w xml:id="Gl6551w7">por</w>
+        <w xml:id="Gl6551w8"><c ana="#lram-c">u</c>oir</w>
+        <pc xml:id="Gl6551pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6552" xml:id="Gl6552">
+        <persName ref="#FLO">
+          <forename>
+            <w xml:id="Gl6552w1">Floriemont</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6552w2" ana="#aggl-s">le</w>
+        <w xml:id="Gl6552w3">fist</w>
+        <w xml:id="Gl6552w4">remanoir</w>
+      </l>
+      <l n="6553" xml:id="Gl6553">
+        <w xml:id="Gl6553w1">Et</w>
+        <w xml:id="Gl6553w2">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6553w3">doucement</w>
+        <w xml:id="Gl6553w4" ana="#elis">l</w>
+        <w xml:id="Gl6553w5">en</w>
+        <w xml:id="Gl6553w6">pria</w>
+        <pc xml:id="Gl6553pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6554" xml:id="Gl6554">
+        <w xml:id="Gl6554w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6554w2">rois</w>
+        <w xml:id="Gl6554w3">fist</w>
+        <w xml:id="Gl6554w4">ce</w>
+        <w xml:id="Gl6554w5" ana="#elis">qu</w>
+        <w xml:id="Gl6554w6">il</w>
+        <w xml:id="Gl6554w7">comanda</w>
+        <pc xml:id="Gl6554pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6555" xml:id="Gl6555">
+        <persName ref="#FLO">
+          <forename>
+            <w xml:id="Gl6555w1">Floriemont</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6555w2" ana="#aggl-s">de</w>
+        <w xml:id="Gl6555w3">lui</w>
+        <w xml:id="Gl6555w4">cong<c ana="#e-ton">e</c></w>
+        <w xml:id="Gl6555w5">prent</w>
+        <pc xml:id="Gl6555pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6556" xml:id="Gl6556">
+        <w xml:id="Gl6556w1" ana="#aggl-s-uncert">Della</w>
+        <w xml:id="Gl6556w2">ro<c ana="#hiat">i</c>ne</w>
+        <w xml:id="Gl6556w3">ausiment</w>
+      </l>
+      <l n="6557" xml:id="Gl6557">
+        <w xml:id="Gl6557w1">Et</w>
+        <w xml:id="Gl6557w2">de</w>
+        <w xml:id="Gl6557w3">sa</w>
+        <w xml:id="Gl6557w4">feme</w>
+        <pc xml:id="Gl6557pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6557w5" ana="#aggl-c">si</w>
+        <w xml:id="Gl6557w6" ana="#aggl">la</w>
+        <w xml:id="Gl6557w7">baise</w>
+      </l>
+      <l n="6558" xml:id="Gl6558">
+        <w xml:id="Gl6558w1">Tant</w>
+        <w xml:id="Gl6558w2">com</w>
+        <w xml:id="Gl6558w3">il</w>
+        <w xml:id="Gl6558w4">en</w>
+        <w xml:id="Gl6558w5">puet</w>
+        <w xml:id="Gl6558w6">a<c ana="#lram-c">u</c>oir</w>
+        <w xml:id="Gl6558w7">aise</w>
+        <pc xml:id="Gl6558pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6559" xml:id="Gl6559">
+        <w xml:id="Gl6559w1" ana="#elis">D</w>
+        <w xml:id="Gl6559w2">els</w>
+        <w xml:id="Gl6559w3">se</w>
+        <w xml:id="Gl6559w4">part</w>
+        <w xml:id="Gl6559w5" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6559w6">prent</w>
+        <w xml:id="Gl6559w7">congi<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6559pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6560" xml:id="Gl6560">
+        <w xml:id="Gl6560w1">
+          <expan corresp="#ab-ctr-mlt">M<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6560w2">furent</w>
+        <w xml:id="Gl6560w3">bien</w>
+        <w xml:id="Gl6560w4">apareilli<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6560pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg341">
+      <l n="6561" xml:id="Gl6561">
+        <w xml:id="Gl6561w1" ana="#aggl-s">
+          <hi rend="init-flour">L</hi>
+          <c ana="#lram-v">J</c>
+        </w>
+        <persName ref="#FLO">
+          <roleName>
+            <w xml:id="Gl6561w2">rois</w>
+          </roleName>
+          <forename>
+            <w xml:id="Gl6561w3">floriemont</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6561w4">apareille</w>
+        <pc xml:id="Gl6561pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6562" xml:id="Gl6562">
+        <w xml:id="Gl6562w1">Son</w>
+        <w xml:id="Gl6562w2">mastre</w>
+        <persName ref="#FLQ">
+          <forename>
+            <w xml:id="Gl6562w3">floqarz</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6562w4">li</w>
+        <w xml:id="Gl6562w5"><expan corresp="#ab-tir-9"><ex>con</ex></expan>seille</w>
+        <pc xml:id="Gl6562pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6563" xml:id="Gl6563">
+        <w xml:id="Gl6563w1">Dist</w>
+        <pc xml:id="Gl6563pc1" resp="#ed">:</pc>
+        <w xml:id="Gl6563w2">sire</w>
+        <pc xml:id="Gl6563pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6563w3" ana="#aggl-s">or</w>
+        <w xml:id="Gl6563w4" ana="#elis">m</w>
+        <w xml:id="Gl6563w5">escoutez</w>
+        <pc xml:id="Gl6563pc3" resp="#ed">:</pc>
+      </l>
+      <l n="6564" xml:id="Gl6564">
+        <w xml:id="Gl6564w1">Ceste</w>
+        <w xml:id="Gl6564w2">gent</w>
+        <w xml:id="Gl6564w3">que</w>
+        <w xml:id="Gl6564w4"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6564w5">ci</w>
+        <w xml:id="Gl6564w6">a<c ana="#lram-c">u</c>ez</w>
+      </l>
+      <l n="6565" xml:id="Gl6565">
+        <w xml:id="Gl6565w1" ana="#elis">N</w>
+        <w xml:id="Gl6565w2">iront</w>
+        <w xml:id="Gl6565w3">pas</w>
+        <w xml:id="Gl6565w4">de</w>
+        <w xml:id="Gl6565w5">droit</w>
+        <w xml:id="Gl6565w6" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="city" ref="#CAR">
+          <name>
+            <w xml:id="Gl6565w7">chartaige</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6565pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6566" xml:id="Gl6566">
+        <w xml:id="Gl6566w1">Se</w>
+        <w xml:id="Gl6566w2"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6566w3" ana="#aggl-s-uncert">en</w>
+        <w xml:id="Gl6566w4">creez</w>
+        <w xml:id="Gl6566w5">mon</w>
+        <w xml:id="Gl6566w6">coraige</w>
+        <pc xml:id="Gl6566pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6567" xml:id="Gl6567">
+        <w xml:id="Gl6567w1">Qua<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6567w2"><c ana="#lram-c">u</c>os</w>
+        <w xml:id="Gl6567w3">mo<c ana="#lram-c">u</c>rez</w>
+        <w xml:id="Gl6567w4">de</w>
+        <w xml:id="Gl6567w5">ceste</w>
+        <w xml:id="Gl6567w6">pa<c ana="#hiat">i</c>s</w>
+      </l>
+      <l n="6568" xml:id="Gl6568">
+        <w xml:id="Gl6568w1">Allez</w>
+        <w xml:id="Gl6568w2">tot</w>
+        <w xml:id="Gl6568w3">droit</w>
+        <w xml:id="Gl6568w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6568w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6568pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6569" xml:id="Gl6569">
+        <w xml:id="Gl6569w1">Auques</w>
+        <w xml:id="Gl6569w2">loing</w>
+        <w xml:id="Gl6569w3">del</w>
+        <w xml:id="Gl6569w4">chastel</w>
+        <w xml:id="Gl6569w5">metez</w>
+      </l>
+      <l n="6570" xml:id="Gl6570">
+        <w xml:id="Gl6570w1">Trestot</w>
+        <w xml:id="Gl6570w2">les</w>
+        <w xml:id="Gl6570w3">usierz</w>
+        <w xml:id="Gl6570w4" ana="#aggl-s">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6570w5">le</w>
+        <w xml:id="Gl6570w6">n<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6570pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6571" xml:id="Gl6571">
+        <w xml:id="Gl6571w1">Sire</w>
+        <pc xml:id="Gl6571pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6571w2"><c ana="#lram-c">u</c>ostre</w>
+        <w xml:id="Gl6571w3">gent</w>
+        <w xml:id="Gl6571w4">sont</w>
+        <w xml:id="Gl6571w5">
+          <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+        </w>
+        <w xml:id="Gl6571w6">grant</w>
+        <pc xml:id="Gl6571pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6572" xml:id="Gl6572">
+        <w xml:id="Gl6572w1">Toz</w>
+        <w xml:id="Gl6572w2" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6572w3">guise</w>
+        <w xml:id="Gl6572w4">de</w>
+        <w xml:id="Gl6572w5">mercheant</w>
+      </l>
+      <l n="6573" xml:id="Gl6573">
+        <w xml:id="Gl6573w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6573w2">fetes</w>
+        <w xml:id="Gl6573w3">ester</w>
+        <w xml:id="Gl6573w4" ana="#aggl-c">en</w>
+        <w xml:id="Gl6573w5" ana="#aggl">la</w>
+        <w xml:id="Gl6573w6">te<expan corresp="#ab-tild-ang-hor"><ex>r</ex></expan>re</w>
+        <pc xml:id="Gl6573pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6574" xml:id="Gl6574">
+        <w xml:id="Gl6574w1">Ne</w>
+        <w xml:id="Gl6574w2">fetes</w>
+        <w xml:id="Gl6574w3">mie</w>
+        <w xml:id="Gl6574w4">senblant</w>
+        <w xml:id="Gl6574w5" ana="#aggl-s">de</w>
+        <w xml:id="Gl6574w6">gere</w>
+        <pc xml:id="Gl6574pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6575" xml:id="Gl6575">
+        <w xml:id="Gl6575w1">Et</w>
+        <w xml:id="Gl6575w2">dites</w>
+        <w xml:id="Gl6575w3">lor</w>
+        <w xml:id="Gl6575w4">quar</w>
+        <w xml:id="Gl6575w5">per</w>
+        <w xml:id="Gl6575w6">desduit</w>
+      </l>
+      <l n="6576" xml:id="Gl6576">
+        <w xml:id="Gl6576w1">Ne</w>
+        <w xml:id="Gl6576w2">faicent</w>
+        <w xml:id="Gl6576w3">pas</w>
+        <w xml:id="Gl6576w4">noises</w>
+        <w xml:id="Gl6576w5">ne</w>
+        <w xml:id="Gl6576w6">bruit</w>
+        <pc xml:id="Gl6576pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6577" xml:id="Gl6577">
+        <w xml:id="Gl6577w1">Se</w>
+        <w xml:id="Gl6577w2">por</w>
+        <w xml:id="Gl6577w3">grant</w>
+        <w xml:id="Gl6577w4">enging</w>
+        <w xml:id="Gl6577w5">ne</w>
+        <w xml:id="Gl6577w6" ana="#elis">n</w>
+        <w xml:id="Gl6577w7">est</w>
+        <w xml:id="Gl6577w8"><expan corresp="#ab-sus-pi">p<ex>r</ex>i</expan>s</w>
+        <pc xml:id="Gl6577pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6578" xml:id="Gl6578">
+        <w xml:id="Gl6578w1" ana="#aggl-s"><c ana="#lram-c">J</c>a</w>
+        <w xml:id="Gl6578w2">ne</w>
+        <w xml:id="Gl6578w3">seroiz</w>
+        <w xml:id="Gl6578w4">en</w>
+        <placeName type="castel" ref="#CLA">
+          <name>
+            <w xml:id="Gl6578w5">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <pc xml:id="Gl6578pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+    <lg xml:id="Glg342">
+      <l n="6579" xml:id="Gl6579">
+        <persName ref="#FLQ">
+          <forename>
+            <w xml:id="Gl6579w1"><hi rend="init-flour">F</hi>Loqarz</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6579w2" ana="#aggl-c-uncert">li</w>
+        <w xml:id="Gl6579w3" ana="#aggl-uncert">a</w>
+        <w xml:id="Gl6579w4" ana="#elis">l</w>
+        <w xml:id="Gl6579w5">enging</w>
+        <w xml:id="Gl6579w6">mostr<c ana="#e-ton">e</c></w>
+      </l>
+      <cb xml:id="Gcb148" n="b"/>
+      <l n="6580" xml:id="Gl6580">
+        <w xml:id="Gl6580w1">Et</w>
+        <w xml:id="Gl6580w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6580w3">rois</w>
+        <w xml:id="Gl6580w4" ana="#aggl-s">li</w>
+        <w xml:id="Gl6580w5">a</w>
+        <w xml:id="Gl6580w6" ana="#aggl-s-uncert">bien</w>
+        <w xml:id="Gl6580w7">escout<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6580pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6581" xml:id="Gl6581">
+        <w xml:id="Gl6581w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6581w2" ana="#aggl-s">li</w>
+        <w xml:id="Gl6581w3">conte</w>
+        <w xml:id="Gl6581w4">ce</w>
+        <w xml:id="Gl6581w5">mot</w>
+        <w xml:id="Gl6581w6">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6581w7">mot</w>
+        <pc xml:id="Gl6581pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6582" xml:id="Gl6582">
+        <w xml:id="Gl6582w1" ana="#aggl-s">Li</w>
+        <w xml:id="Gl6582w2">rois</w>
+        <w xml:id="Gl6582w3" ana="#elis">l</w>
+        <w xml:id="Gl6582w4">a</w>
+        <w xml:id="Gl6582w5">bien</w>
+        <w xml:id="Gl6582w6" ana="#aggl-s">retenu</w>
+        <w xml:id="Gl6582w7">tot</w>
+        <pc xml:id="Gl6582pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6583" xml:id="Gl6583">
+        <w xml:id="Gl6583w1">Et</w>
+        <w xml:id="Gl6583w2">puis</w>
+        <w xml:id="Gl6583w3">lor</w>
+        <w xml:id="Gl6583w4">dist</w>
+        <pc xml:id="Gl6583pc1" resp="#ed">:</pc>
+        <w xml:id="Gl6583w5">seignor</w>
+        <pc xml:id="Gl6583pc2" resp="#ed">,</pc>
+        <w xml:id="Gl6583w6">alez</w>
+      </l>
+      <l n="6584" xml:id="Gl6584">
+        <w xml:id="Gl6584w1" ana="#aggl-s">La</w>
+        <w xml:id="Gl6584w2">droit</w>
+        <w xml:id="Gl6584w3"><c ana="#lram-c">u</c>oie</w>
+        <w xml:id="Gl6584w4"><c ana="#lram-c">u</c>er<subst><del rend="transf">z</del><add place="sup">s</add></subst></w>
+        <w xml:id="Gl6584w5">les</w>
+        <w xml:id="Gl6584w6">n<c ana="#e-ton">e</c>z</w>
+        <pc xml:id="Gl6584pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6585" xml:id="Gl6585">
+        <w xml:id="Gl6585w1"><c ana="#lram-v">J</c>l</w>
+        <w xml:id="Gl6585w2" ana="#elis">l</w>
+        <w xml:id="Gl6585w3">a</w>
+        <w xml:id="Gl6585w4">tot</w>
+        <w xml:id="Gl6585w5">dit</w>
+        <w xml:id="Gl6585w6">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6585w7">proi<c ana="#e-ton">e</c></w>
+      </l>
+      <l n="6586" xml:id="Gl6586">
+        <w xml:id="Gl6586w1">Ce</w>
+        <w xml:id="Gl6586w2">que</w>
+        <persName ref="#FLQ">
+          <forename>
+            <w xml:id="Gl6586w3">floquarz</w>
+          </forename>
+        </persName>
+        <w xml:id="Gl6586w4" ana="#elis">l</w>
+        <w xml:id="Gl6586w5">a</w>
+        <w xml:id="Gl6586w6">conseill<c ana="#e-ton">e</c></w>
+        <pc xml:id="Gl6586pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6587" xml:id="Gl6587">
+        <w xml:id="Gl6587w1">Puis</w>
+        <w xml:id="Gl6587w2" ana="#elis">s</w>
+        <w xml:id="Gl6587w3">en</w>
+        <w xml:id="Gl6587w4"><c ana="#lram-c">u</c>ont</w>
+        <w xml:id="Gl6587w5"><c ana="#lram-c">u</c>ers</w>
+        <w xml:id="Gl6587w6">le</w>
+        <w xml:id="Gl6587w7">n<c ana="#e-ton">e</c>z</w>
+        <w xml:id="Gl6587w8">tuit</w>
+        <w xml:id="Gl6587w9">droit</w>
+        <pc xml:id="Gl6587pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6588" xml:id="Gl6588">
+        <w xml:id="Gl6588w1">Enz</w>
+        <w xml:id="Gl6588w2" ana="#elis">s</w>
+        <w xml:id="Gl6588w3">en</w>
+        <w xml:id="Gl6588w4">entrerent</w>
+        <w xml:id="Gl6588w5" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6588w6">grant</w>
+        <w xml:id="Gl6588w7">esploit</w>
+        <pc xml:id="Gl6588pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6589" xml:id="Gl6589">
+        <w xml:id="Gl6589w1">Les</w>
+        <w xml:id="Gl6589w2">furent</w>
+        <w xml:id="Gl6589w3">grant</w>
+        <w xml:id="Gl6589w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6589w5">lee<subst><del rend="transf">z</del><add place="sup">s</add></subst></w>
+        <pc xml:id="Gl6589pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6590" xml:id="Gl6590">
+        <w xml:id="Gl6590w1">Bien</w>
+        <w xml:id="Gl6590w2">le</w>
+        <w xml:id="Gl6590w3">tro<c ana="#lram-c">u</c>erent</w>
+        <w xml:id="Gl6590w4">atornees</w>
+      </l>
+      <l n="6591" xml:id="Gl6591">
+        <w xml:id="Gl6591w1" ana="#aggl-s">De</w>
+        <w xml:id="Gl6591w2">fein</w>
+        <pc xml:id="Gl6591pc1" resp="#ed">,</pc>
+        <w xml:id="Gl6591w3" ana="#elis">d</w>
+        <w xml:id="Gl6591w4">a<c ana="#lram-c">u</c>oine</w>
+        <w xml:id="Gl6591w5">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6591w6">de</w>
+        <w xml:id="Gl6591w7">co<expan corresp="#ab-tild-nas"><ex>n</ex></expan>duit</w>
+        <pc xml:id="Gl6591pc2" resp="#ed">,</pc>
+      </l>
+      <l n="6592" xml:id="Gl6592">
+        <w xml:id="Gl6592w1" ana="#elis">D</w>
+        <w xml:id="Gl6592w2">e<c ana="#lram-c">u</c>e</w>
+        <w xml:id="Gl6592w3">douce</w>
+        <w xml:id="Gl6592w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6592w5">gra<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t</w>
+        <w xml:id="Gl6592w6">desduit</w>
+        <pc xml:id="Gl6592pc1" resp="#ed">.</pc>
+      </l>
+      <l n="6593" xml:id="Gl6593">
+        <w xml:id="Gl6593w1">Li<c ana="#lram-c">u</c>ent</w>
+        <w xml:id="Gl6593w2">les</w>
+        <w xml:id="Gl6593w3">ancres</w>
+        <w xml:id="Gl6593w4">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6593w5">les</w>
+        <w xml:id="Gl6593w6"><c ana="#lram-c">u</c>oiles</w>
+        <pc xml:id="Gl6593pc1" resp="#ed">,</pc>
+      </l>
+      <l n="6594" xml:id="Gl6594">
+        <w xml:id="Gl6594w1">Che</w>
+        <w xml:id="Gl6594w2">mout</w>
+        <w xml:id="Gl6594w3">furent</w>
+        <w xml:id="Gl6594w4">de</w>
+        <w xml:id="Gl6594w5">riches</w>
+        <w xml:id="Gl6594w6">toilles</w>
+        <pc xml:id="Gl6594pc1" resp="#ed">;</pc>
+      </l>
+      <l n="6595" xml:id="Gl6595">
+        <w xml:id="Gl6595w1">Nagent</w>
+        <w xml:id="Gl6595w2">
+          <expan corresp="#ab-tir-7">
+            <ex>et</ex>
+          </expan>
+        </w>
+        <w xml:id="Gl6595w3">siglent</w>
+        <w xml:id="Gl6595w4" ana="#aggl-s">
+          <c ana="#diacr-desamb">a</c>
+        </w>
+        <w xml:id="Gl6595w5">esploit</w>
+      </l>
+      <l n="6596" xml:id="Gl6596">
+        <w xml:id="Gl6596w1"><c ana="#lram-c">V</c>ers</w>
+        <placeName type="city" ref="#CLA">
+          <name>
+            <w xml:id="Gl6596w2">cla<c ana="#lram-c">u</c>egris</w>
+          </name>
+        </placeName>
+        <w xml:id="Gl6596w3">tot</w>
+        <w xml:id="Gl6596w4">le</w>
+        <w xml:id="Gl6596w5" ana="#aggl-s">plus</w>
+        <w xml:id="Gl6596w6">droit</w>
+        <pc xml:id="Gl6596pc1" resp="#ed">.</pc>
+      </l>
+    </lg>
+  </div>
+  
